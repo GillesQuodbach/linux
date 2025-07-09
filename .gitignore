@@ -1,0 +1,12 @@
+# Ignorer tout par défaut
+Code/
+BraveSoftware/
+dconf/
+Docker Desktop/
+google-chrome/
+gtk-3.0/
+pulse/
+Thunar/
+vscode-sqltools/
+yay/
+xfce4/
