@@ -5,3 +5,5 @@ if status is-interactive
     end
     funcsave vps
 end
+
+set -gx TERMINAL kitty
