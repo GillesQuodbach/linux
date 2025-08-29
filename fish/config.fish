@@ -19,7 +19,17 @@ if status is-interactive
 	emulator -avd Pixel_9 -no-snapshot-load
     end
     funcsave pixel9-cold
-ixel9
+    
+    function vpnup
+	sudo wg-quick up wg0
+    end
+    funcsave vpnup
+
+    function vpndown
+	sudo wg-quick down wg0
+    end
+    funcsave vpndown
+
 end
 set -x ANDROID_HOME $HOME/Android/Sdk  # Chemin pour Linux
 set -x PATH $PATH $ANDROID_HOME/tools $ANDROID_HOME/platform-tools
