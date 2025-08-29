@@ -1,0 +1,28 @@
+2025-08-09 16:35:04.603 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-09 16:35:04.603 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-09 16:35:04.603 [warning] No repository found: /home/codebash/dev/stop_alcool (candidates: )
+2025-08-09 16:35:04.717 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/stop_alcool" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-09 16:40:03.666 [info] doUpdate: Disposing completed index job...
+2025-08-09 16:40:03.666 [info] MultiBranchIndexJob dispose
+2025-08-09 16:40:03.666 [info] Aborting multi-branch indexing job.
+2025-08-09 16:40:03.667 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/stop_alcool" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-09 16:45:03.666 [info] doUpdate: Disposing completed index job...
+2025-08-09 16:45:03.666 [info] MultiBranchIndexJob dispose
+2025-08-09 16:45:03.666 [info] Aborting multi-branch indexing job.
+2025-08-09 16:45:03.669 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/stop_alcool" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-09 16:50:03.668 [info] doUpdate: Disposing completed index job...
+2025-08-09 16:50:03.668 [info] MultiBranchIndexJob dispose
+2025-08-09 16:50:03.668 [info] Aborting multi-branch indexing job.
+2025-08-09 16:50:03.669 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/stop_alcool" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'

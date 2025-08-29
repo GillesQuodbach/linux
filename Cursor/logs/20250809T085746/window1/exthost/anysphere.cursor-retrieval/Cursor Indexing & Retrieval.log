@@ -1,0 +1,28 @@
+2025-08-09 08:57:53.578 [error] Error getting repo info: Failed to execute git
+2025-08-09 08:57:53.578 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-09 08:57:53.578 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-09 08:57:53.578 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-09 08:57:53.578 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-09 08:57:53.578 [info] Using existing keys for an index
+2025-08-09 08:57:53.578 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-09 08:57:53.578 [info] Using existing keys for an index
+2025-08-09 08:57:53.578 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-09 08:57:53.578 [info] Setting global status from status tracker: synced
+2025-08-09 08:57:53.578 [info] Doing a startup handshake.
+2025-08-09 08:57:53.794 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-09 08:57:53.889 [info] Finished computing merkle tree in 20.980329999999412 ms.
+2025-08-09 08:57:53.896 [info] Doing the initial handshake with hash: 381184772c935ae1b44cf8380fd02159f4f7fef1416e68a5acfbab6d234733c7
+2025-08-09 08:57:53.902 [info] Computed simhash vector of length: 256
+2025-08-09 08:57:53.902 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-09 08:57:53.902 [info] Handshake start
+2025-08-09 08:57:57.908 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-08-09 08:57:57.909 [info] Handshake start
+2025-08-09 08:58:00.906 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-09 08:58:00.906 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-09 08:58:02.821 [info] multiCodebaseIndexingJob dispose
+2025-08-09 08:58:02.821 [info] Aborting indexing job.
+2025-08-09 08:58:02.832 [info] Indexing job successfully done or aborted.

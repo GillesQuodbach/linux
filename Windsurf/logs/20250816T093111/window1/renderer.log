@@ -1,0 +1,69 @@
+2025-08-16 09:31:12.111 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.112 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.113 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 09:31:12.311 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-08-16 09:31:12.375 [error] Window not found: Error: Window not found
+    at Rui.getWindowsInGroup (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3482:8541)
+    at new H8t (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1925:176396)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3310
+    at Mvi.d (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78502)
+    at get value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78644)
+    at Object.get (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3833)
+    at Poe._runFn (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:17143)
+    at Poe.l (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22641)
+    at new Poe (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22353)
+2025-08-16 09:31:12.589 [info] Started local extension host with pid 17086.
+2025-08-16 09:31:14.364 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-08-16 09:31:15.345 [info] [perf] Render performance baseline is 60ms
+2025-08-16 09:31:41.849 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-08-16 09:50:14.165 [error] [Extension Host] Error acknowledging Cascade edit:  ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-16 10:36:15.156 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-16 10:37:39.145 [error] [Extension Host] Error acknowledging Cascade edit:  ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-16 10:39:17.178 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-16 10:40:41.562 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-16 11:07:41.583 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-16 11:08:51.580 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-16 11:09:16.234 [error] An unknown error occurred. Please consult the log for more details.

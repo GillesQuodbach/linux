@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Stop Alcohol",
+    "slug": "stop-alcohol",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "usesAppleSignIn": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-notifications"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "replace-with-your-eas-project-id"
+      },
+      "firebase": {
+        "apiKey": "YOUR_API_KEY",
+        "authDomain": "YOUR_AUTH_DOMAIN",
+        "projectId": "YOUR_PROJECT_ID",
+        "storageBucket": "YOUR_STORAGE_BUCKET",
+        "messagingSenderId": "YOUR_SENDER_ID",
+        "appId": "YOUR_APP_ID"
+      }
+    }
+  }
+}

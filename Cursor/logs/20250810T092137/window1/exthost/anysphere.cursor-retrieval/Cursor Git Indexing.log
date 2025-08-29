@@ -1,0 +1,9 @@
+2025-08-10 09:21:42.604 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 09:21:42.604 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 09:21:42.797 [warning] No repository found: /home/codebash/dev/growing-app (candidates: )
+2025-08-10 09:21:43.024 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:22:44.843 [info] MultiBranchIndexJob dispose
+2025-08-10 09:22:44.843 [info] Aborting multi-branch indexing job.

@@ -1,2 +1,5 @@
 [Default Applications]
 x-terminal-emulator=kitty.desktop
+
+[Added Associations]
+inode/directory=windsurf.desktop;

@@ -1,0 +1,12 @@
+2025-08-17 14:23:12.889 [info] [2025-08-17 12:23:12.725] [         26ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-17 14:23:12.889 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-17 14:23:34.289 [info] [2025-08-17 12:23:34.289] [          5ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-17 14:23:34.289 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-17 14:26:04.729 [info] [2025-08-17 12:26:04.729] [          5ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-17 14:26:04.729 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

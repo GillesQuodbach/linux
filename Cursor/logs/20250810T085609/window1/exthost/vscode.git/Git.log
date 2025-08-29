@@ -1,0 +1,267 @@
+2025-08-10 08:56:13.586 [info] [main] Log level: Info
+2025-08-10 08:56:13.586 [info] [main] Validating found git in: "git"
+2025-08-10 08:56:13.586 [info] [main] Using git "2.50.1" from "git"
+2025-08-10 08:56:13.586 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-10 08:56:13.586 [info] > git rev-parse --show-toplevel [25ms]
+2025-08-10 08:56:13.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:13.586 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-10 08:56:14.950 [info] > git config --get remote.origin.url [163ms]
+2025-08-10 08:56:14.974 [info] > git rev-parse --show-toplevel [37ms]
+2025-08-10 08:56:14.974 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.183 [info] > git rev-parse --show-toplevel [98ms]
+2025-08-10 08:56:15.183 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.183 [info] > git rev-parse --show-toplevel [105ms]
+2025-08-10 08:56:15.183 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.216 [info] > git remote get-url --push origin [9ms]
+2025-08-10 08:56:15.216 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.220 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2025-08-10 08:56:15.220 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.234 [info] > git rev-parse --show-toplevel [9ms]
+2025-08-10 08:56:15.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.237 [info] > git rev-parse --verify origin/main [4ms]
+2025-08-10 08:56:15.237 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.247 [info] > git rev-parse --verify origin/master [6ms]
+2025-08-10 08:56:15.247 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.253 [info] > git rev-parse --verify origin/develop [2ms]
+2025-08-10 08:56:15.253 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.259 [info] > git branch -r [1ms]
+2025-08-10 08:56:15.259 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.267 [info] > git config --get init.defaultBranch [2ms]
+2025-08-10 08:56:15.399 [info] > git remote get-url --push origin [23ms]
+2025-08-10 08:56:15.399 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:15.706 [info] > git remote get-url --push origin [108ms]
+2025-08-10 08:56:15.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:56:23.536 [info] > git config --global user.name [4ms]
+2025-08-10 08:56:23.549 [info] > git config --global user.email [3ms]
+2025-08-10 08:56:23.549 [info] [main] Stored git author name in global state: GillesQuodbach <quodbach.gilles@gmail.com>
+2025-08-10 09:01:11.899 [info] > git rev-parse --show-toplevel [4ms]
+2025-08-10 09:01:11.899 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:01:30.844 [info] > git status [1ms]
+2025-08-10 09:01:30.844 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:01:52.916 [info] > git status [1ms]
+2025-08-10 09:01:52.916 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:02:57.686 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:02:57.686 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:03:14.552 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:03:14.561 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-08-10 09:03:14.573 [info] [Model][openRepository] Opened repository: /home/codebash/dev/growing-app/PlantApp
+2025-08-10 09:03:14.593 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:03:14.593 [info] > git config --get commit.template [10ms]
+2025-08-10 09:03:14.610 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:03:14.618 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:03:14.619 [info] > git rev-parse --show-toplevel [17ms]
+2025-08-10 09:03:14.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-08-10 09:03:14.647 [info] > git status -z -uall [11ms]
+2025-08-10 09:03:14.647 [info] > git rev-parse --show-toplevel [22ms]
+2025-08-10 09:03:14.655 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-08-10 09:03:14.694 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2025-08-10 09:03:14.702 [info] > git rev-parse --show-toplevel [48ms]
+2025-08-10 09:03:14.711 [info] > git config --get commit.template [17ms]
+2025-08-10 09:03:14.717 [info] > git rev-parse --show-toplevel [8ms]
+2025-08-10 09:03:14.717 [info] > git config --get --local branch.master.vscode-merge-base [15ms]
+2025-08-10 09:03:14.717 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-10 09:03:14.735 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:03:14.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-08-10 09:03:14.758 [info] > git reflog master --grep-reflog=branch: Created from *. [33ms]
+2025-08-10 09:03:14.759 [info] > git status -z -uall [8ms]
+2025-08-10 09:03:14.759 [info] > git rev-parse --show-toplevel [17ms]
+2025-08-10 09:03:14.773 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2025-08-10 09:03:14.776 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:03:14.786 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:14.795 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:14.816 [info] > git rev-parse --show-toplevel [13ms]
+2025-08-10 09:03:14.825 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 09:03:14.837 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:14.846 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:14.856 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:14.866 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:03:15.109 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-10 09:03:15.176 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:03:15.176 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:03:37.613 [info] > git fetch [5ms]
+2025-08-10 09:03:37.626 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:03:37.627 [info] > git config --get commit.template [6ms]
+2025-08-10 09:03:37.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-08-10 09:03:37.641 [info] > git status -z -uall [8ms]
+2025-08-10 09:03:37.642 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 09:03:38.714 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:03:38.715 [info] > git config --get commit.template [9ms]
+2025-08-10 09:03:38.720 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-08-10 09:03:38.731 [info] > git status -z -uall [6ms]
+2025-08-10 09:03:38.732 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 09:05:15.217 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:05:15.217 [info] > git config --get commit.template [9ms]
+2025-08-10 09:05:15.219 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-08-10 09:05:15.234 [info] > git status -z -uall [8ms]
+2025-08-10 09:05:15.235 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 09:05:15.755 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:05:15.755 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:06:11.677 [info] > git config user.email [2ms]
+2025-08-10 09:06:11.685 [info] > git log --pretty=format:%H<|ENT|><|RY|>%s<|COM|><|MIT|> -n 10 --author quodbach.gilles@gmail.com [2ms]
+2025-08-10 09:06:11.685 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:06:11.899 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 09:06:11.899 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:11:11.900 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 09:11:11.900 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:16:03.321 [info] > git fetch [16ms]
+2025-08-10 09:16:03.355 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:16:03.356 [info] > git config --get commit.template [36ms]
+2025-08-10 09:16:03.359 [info] > git config --get commit.template [20ms]
+2025-08-10 09:16:03.376 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:16:03.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2025-08-10 09:16:03.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-08-10 09:16:03.406 [info] > git status -z -uall [17ms]
+2025-08-10 09:16:03.408 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 09:16:03.436 [info] > git ls-files --others --exclude-standard [2ms]
+2025-08-10 09:16:03.436 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:16:03.437 [info] > git diff --no-color [16ms]
+2025-08-10 09:16:03.437 [info] warning: Not a git repository. Use --no-index to compare two paths outside a working tree
+usage: git diff --no-index [<options>] <path> <path>
+
+Diff output format options
+    -p, --patch           generate patch
+    -s, --no-patch        suppress diff output
+    -u                    generate patch
+    -U, --unified[=<n>]   generate diffs with <n> lines context
+    -W, --[no-]function-context
+                          generate diffs with <n> lines context
+    --raw                 generate the diff in raw format
+    --patch-with-raw      synonym for '-p --raw'
+    --patch-with-stat     synonym for '-p --stat'
+    --numstat             machine friendly --stat
+    --shortstat           output only the last line of --stat
+    -X, --dirstat[=<param1>,<param2>...]
+                          output the distribution of relative amount of changes for each sub-directory
+    --cumulative          synonym for --dirstat=cumulative
+    --dirstat-by-file[=<param1>,<param2>...]
+                          synonym for --dirstat=files,<param1>,<param2>...
+    --check               warn if changes introduce conflict markers or whitespace errors
+    --summary             condensed summary such as creations, renames and mode changes
+    --name-only           show only names of changed files
+    --name-status         show only names and status of changed files
+    --stat[=<width>[,<name-width>[,<count>]]]
+                          generate diffstat
+    --stat-width <width>  generate diffstat with a given width
+    --stat-name-width <width>
+                          generate diffstat with a given name width
+    --stat-graph-width <width>
+                          generate diffstat with a given graph width
+    --stat-count <count>  generate diffstat with limited lines
+    --[no-]compact-summary
+                          generate compact summary in diffstat
+    --binary              output a binary diff that can be applied
+    --[no-]full-index     show full pre- and post-image object names on the "index" lines
+    --[no-]color[=<when>] show colored diff
+    --ws-error-highlight <kind>
+                          highlight whitespace errors in the 'context', 'old' or 'new' lines in the diff
+    -z                    do not munge pathnames and use NULs as output field terminators in --raw or --numstat
+    --[no-]abbrev[=<n>]   use <n> digits to display object names
+    --src-prefix <prefix> show the given source prefix instead of "a/"
+    --dst-prefix <prefix> show the given destination prefix instead of "b/"
+    --line-prefix <prefix>
+                          prepend an additional prefix to every line of output
+    --no-prefix           do not show any source or destination prefix
+    --default-prefix      use default prefixes a/ and b/
+    --inter-hunk-context <n>
+                          show context between diff hunks up to the specified number of lines
+    --output-indicator-new <char>
+                          specify the character to indicate a new line instead of '+'
+    --output-indicator-old <char>
+                          specify the character to indicate an old line instead of '-'
+    --output-indicator-context <char>
+                          specify the character to indicate a context instead of ' '
+
+Diff rename options
+    -B, --break-rewrites[=<n>[/<m>]]
+                          break complete rewrite changes into pairs of delete and create
+    -M, --find-renames[=<n>]
+                          detect renames
+    -D, --irreversible-delete
+                          omit the preimage for deletes
+    -C, --find-copies[=<n>]
+                          detect copies
+    --[no-]find-copies-harder
+                          use unmodified files as source to find copies
+    --no-renames          disable rename detection
+    --[no-]rename-empty   use empty blobs as rename source
+    --[no-]follow         continue listing the history of a file beyond renames
+    -l <n>                prevent rename/copy detection if the number of rename/copy targets exceeds given limit
+
+Diff algorithm options
+    --minimal             produce the smallest possible diff
+    -w, --ignore-all-space
+                          ignore whitespace when comparing lines
+    -b, --ignore-space-change
+                          ignore changes in amount of whitespace
+    --ignore-space-at-eol ignore changes in whitespace at EOL
+    --ignore-cr-at-eol    ignore carrier-return at the end of line
+    --ignore-blank-lines  ignore changes whose lines are all blank
+    -I, --[no-]ignore-matching-lines <regex>
+                          ignore changes whose all lines match <regex>
+    --[no-]indent-heuristic
+                          heuristic to shift diff hunk boundaries for easy reading
+    --patience            generate diff using the "patience diff" algorithm
+    --histogram           generate diff using the "histogram diff" algorithm
+    --diff-algorithm <algorithm>
+                          choose a diff algorithm
+    --anchored <text>     generate diff using the "anchored diff" algorithm
+    --word-diff[=<mode>]  show word diff, using <mode> to delimit changed words
+    --word-diff-regex <regex>
+                          use <regex> to decide what a word is
+    --color-words[=<regex>]
+                          equivalent to --word-diff=color --word-diff-regex=<regex>
+    --[no-]color-moved[=<mode>]
+                          moved lines of code are colored differently
+    --[no-]color-moved-ws <mode>
+                          how white spaces are ignored in --color-moved
+
+Other diff options
+    --[no-]relative[=<prefix>]
+                          when run from subdir, exclude changes outside and show relative paths
+    -a, --[no-]text       treat all files as text
+    -R                    swap two inputs, reverse the diff
+    --[no-]exit-code      exit with 1 if there were differences, 0 otherwise
+    --[no-]quiet          disable all output of the program
+    --[no-]ext-diff       allow an external diff helper to be executed
+    --[no-]textconv       run external text conversion filters when comparing binary files
+    --ignore-submodules[=<when>]
+                          ignore changes to submodules in the diff generation
+    --submodule[=<format>]
+                          specify how differences in submodules are shown
+    --ita-invisible-in-index
+                          hide 'git add -N' entries from the index
+    --ita-visible-in-index
+                          treat 'git add -N' entries as real in the index
+    -S <string>           look for differences that change the number of occurrences of the specified string
+    -G <regex>            look for differences that change the number of occurrences of the specified regex
+    --pickaxe-all         show all changes in the changeset with -S or -G
+    --pickaxe-regex       treat <string> in -S as extended POSIX regular expression
+    -O <file>             control the order in which files appear in the output
+    --rotate-to <path>    show the change in the specified path first
+    --skip-to <path>      skip the output to the specified path
+    --find-object <object-id>
+                          look for differences that change the number of occurrences of the specified object
+    --diff-filter [(A|C|D|M|R|T|U|X|B)...[*]]
+                          select files by diff type
+    --output <file>       output to a specific file
+2025-08-10 09:16:03.932 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 09:16:03.932 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:16:11.681 [info] > git config user.email [4ms]
+2025-08-10 09:16:11.690 [info] > git log --pretty=format:%H<|ENT|><|RY|>%s<|COM|><|MIT|> -n 10 --author quodbach.gilles@gmail.com [1ms]
+2025-08-10 09:16:11.690 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:16:11.905 [info] > git rev-parse --show-toplevel [4ms]
+2025-08-10 09:16:11.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 09:16:20.144 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:16:20.145 [info] > git config --get commit.template [12ms]
+2025-08-10 09:16:20.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-08-10 09:16:20.164 [info] > git status -z -uall [10ms]
+2025-08-10 09:16:20.165 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 09:17:57.491 [info] > git check-ignore -v -z --stdin [3ms]
+2025-08-10 09:17:59.839 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-10 09:18:03.589 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-10 09:20:12.528 [info] > git fetch [5ms]
+2025-08-10 09:20:12.550 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 09:20:12.551 [info] > git config --get commit.template [12ms]
+2025-08-10 09:20:12.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-08-10 09:20:12.579 [info] > git status -z -uall [19ms]
+2025-08-10 09:20:12.579 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]

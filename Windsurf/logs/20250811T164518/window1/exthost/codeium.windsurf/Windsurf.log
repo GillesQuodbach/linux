@@ -1,0 +1,23 @@
+2025-08-11 16:45:24.417 [info] 2025/08/11 16:45:24 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-08-11 16:45:25.155 [info] I0811 16:45:25.155495  4892 main.go:605] Setting GOMAXPROCS to 4
+2025-08-11 16:45:25.156 [info] I0811 16:45:25.156592  4892 main.go:824] Starting language server process with pid 4892
+2025-08-11 16:45:25.159 [info] I0811 16:45:25.159130  4892 server.go:301] Language server will attempt to listen on host 127.0.0.1
+2025-08-11 16:45:25.159 [info] I0811 16:45:25.159649  4892 server.go:308] Language server listening on random port at 45329
+2025-08-11 16:45:25.581 [info] I0811 16:45:25.580938  4892 server.go:441] Created extension server client at port 44959
+2025-08-11 16:45:25.683 [info] I0811 16:45:25.682717  4892 server.go:1010] Local search is enabled, will index local files.
+2025-08-11 16:45:25.683 [info] I0811 16:45:25.682771  4892 server.go:1014] Using 2 indexer workers
+2025-08-11 16:45:26.153 [info] (Windsurf) 2025-08-11 16:45:26.144 [INFO]: Language server started
+2025-08-11 16:45:26.498 [info] (Windsurf) 2025-08-11 16:45:26.498 [INFO]: LS lspClient started successfully
+2025-08-11 16:45:29.270 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-11 16:59:18.721 [info] E0811 16:59:18.721049  4892 cascade_manager.go:364] Removing trajectory 023e99de-5e6c-4d41-a832-3d8b0801327a from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-11 16:59:18.741 [info] E0811 16:59:18.741286  4892 cascade_manager.go:364] Removing trajectory 023e99de-5e6c-4d41-a832-3d8b0801327a from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-11 17:35:54.124 [info] E0811 17:35:54.124642  4892 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/components/PlantCard.js
+2025-08-11 17:43:34.522 [info] E0811 17:43:34.519539  4892 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+2025-08-11 18:13:21.094 [info] E0811 18:13:21.094604  4892 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+2025-08-11 21:07:13.669 [info] E0811 21:07:13.669676  4892 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+2025-08-11 21:07:36.573 [info] (Windsurf) 2025-08-11 21:07:36.573 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-08-11 21:07:47.905 [info] E0811 21:07:47.905403  4892 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+2025-08-11 21:29:07.261 [info] (Windsurf) 2025-08-11 21:29:07.258 [INFO]: Shutting down all 0 managed language servers

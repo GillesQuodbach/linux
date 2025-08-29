@@ -1,0 +1,87 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7",
+    "telemetry.devDeviceId": "c99073f5-7ed5-4b7b-9206-dad28a33cb20",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/codebash/dev/test_go"
+            },
+            {
+                "folderUri": "file:///home/codebash/CascadeProjects/PlantApp"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1756302533035"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/codebash/CascadeProjects/PlantApp": "__default__profile__",
+            "file:///home/codebash/dev/test_go": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1756302533035": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/codebash/CascadeProjects/PlantApp",
+            "backupPath": "/home/codebash/.config/Windsurf/Backups/a0f4810170df163e2b0f128d5694d3da",
+            "uiState": {
+                "mode": 1,
+                "x": 3862,
+                "y": 64,
+                "width": 1556,
+                "height": 814
+            }
+        },
+        "openedWindows": []
+    },
+    "windsurf.lsGroupsState": {},
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                300,
+                [
+                    "6c39c5cad177378099bc57aabc1b31fd",
+                    "45d0c2395bf2b2840c9e93a24cb159c0"
+                ]
+            ]
+        }
+    }
+}

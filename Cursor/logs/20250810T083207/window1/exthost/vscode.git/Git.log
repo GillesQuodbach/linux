@@ -1,0 +1,106 @@
+2025-08-10 08:32:12.298 [info] [main] Log level: Info
+2025-08-10 08:32:12.298 [info] [main] Validating found git in: "git"
+2025-08-10 08:32:12.298 [info] [main] Using git "2.50.1" from "git"
+2025-08-10 08:32:12.298 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-10 08:32:12.298 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 08:32:12.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:12.298 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-10 08:32:13.882 [info] > git config --get remote.origin.url [177ms]
+2025-08-10 08:32:13.882 [info] > git rev-parse --show-toplevel [192ms]
+2025-08-10 08:32:13.882 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.919 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [10ms]
+2025-08-10 08:32:13.919 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.937 [info] > git rev-parse --show-toplevel [19ms]
+2025-08-10 08:32:13.937 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.940 [info] > git rev-parse --verify origin/main [4ms]
+2025-08-10 08:32:13.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.955 [info] > git rev-parse --verify origin/master [10ms]
+2025-08-10 08:32:13.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.963 [info] > git rev-parse --verify origin/develop [2ms]
+2025-08-10 08:32:13.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.968 [info] > git branch -r [1ms]
+2025-08-10 08:32:13.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:13.983 [info] > git config --get init.defaultBranch [10ms]
+2025-08-10 08:32:14.274 [info] > git remote get-url --push origin [20ms]
+2025-08-10 08:32:14.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.274 [info] > git rev-parse --show-toplevel [52ms]
+2025-08-10 08:32:14.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.274 [info] > git rev-parse --show-toplevel [58ms]
+2025-08-10 08:32:14.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.282 [info] > git rev-parse --show-toplevel [17ms]
+2025-08-10 08:32:14.282 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.370 [info] > git remote get-url --push origin [21ms]
+2025-08-10 08:32:14.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.370 [info] > git rev-parse --show-toplevel [48ms]
+2025-08-10 08:32:14.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.445 [info] > git remote get-url --push origin [60ms]
+2025-08-10 08:32:14.445 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:14.583 [info] > git rev-parse --show-toplevel [139ms]
+2025-08-10 08:32:14.583 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:22.274 [info] > git config --global user.name [1ms]
+2025-08-10 08:32:22.286 [info] > git config --global user.email [1ms]
+2025-08-10 08:32:22.286 [info] [main] Stored git author name in global state: GillesQuodbach <quodbach.gilles@gmail.com>
+2025-08-10 08:32:27.277 [info] > git remote get-url --push origin [23ms]
+2025-08-10 08:32:27.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:27.277 [info] > git rev-parse --show-toplevel [29ms]
+2025-08-10 08:32:27.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:28.442 [info] > git remote get-url --push origin [18ms]
+2025-08-10 08:32:28.442 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:28.443 [info] > git rev-parse --show-toplevel [25ms]
+2025-08-10 08:32:28.443 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.498 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [18ms]
+2025-08-10 08:32:30.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.499 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [25ms]
+2025-08-10 08:32:30.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.511 [info] > git rev-parse --verify origin/main [6ms]
+2025-08-10 08:32:30.511 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.517 [info] > git rev-parse --verify origin/main [7ms]
+2025-08-10 08:32:30.517 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.523 [info] > git rev-parse --verify origin/master [6ms]
+2025-08-10 08:32:30.523 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.529 [info] > git rev-parse --verify origin/master [7ms]
+2025-08-10 08:32:30.529 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.535 [info] > git rev-parse --verify origin/develop [6ms]
+2025-08-10 08:32:30.535 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.549 [info] > git branch -r [9ms]
+2025-08-10 08:32:30.549 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.556 [info] > git rev-parse --verify origin/develop [22ms]
+2025-08-10 08:32:30.556 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.575 [info] > git branch -r [12ms]
+2025-08-10 08:32:30.575 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:30.581 [info] > git config --get init.defaultBranch [25ms]
+2025-08-10 08:32:30.589 [info] > git config --get init.defaultBranch [8ms]
+2025-08-10 08:32:31.494 [info] > git status [8ms]
+2025-08-10 08:32:31.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:31.494 [info] > git status [0ms]
+2025-08-10 08:32:31.495 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.629 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [19ms]
+2025-08-10 08:32:36.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.629 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [25ms]
+2025-08-10 08:32:36.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.641 [info] > git rev-parse --verify origin/main [6ms]
+2025-08-10 08:32:36.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.647 [info] > git rev-parse --verify origin/main [6ms]
+2025-08-10 08:32:36.647 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.653 [info] > git rev-parse --verify origin/master [6ms]
+2025-08-10 08:32:36.653 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.659 [info] > git rev-parse --verify origin/master [6ms]
+2025-08-10 08:32:36.659 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.665 [info] > git rev-parse --verify origin/develop [7ms]
+2025-08-10 08:32:36.665 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.671 [info] > git rev-parse --verify origin/develop [6ms]
+2025-08-10 08:32:36.671 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.687 [info] > git branch -r [10ms]
+2025-08-10 08:32:36.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.697 [info] > git branch -r [26ms]
+2025-08-10 08:32:36.697 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:36.732 [info] > git config --get init.defaultBranch [23ms]
+2025-08-10 08:32:36.733 [info] > git config --get init.defaultBranch [36ms]
+2025-08-10 08:32:37.619 [info] > git status [11ms]
+2025-08-10 08:32:37.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:37.620 [info] > git status [2ms]
+2025-08-10 08:32:37.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:39.479 [info] > git status [1ms]
+2025-08-10 08:32:39.479 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 08:32:40.852 [info] > git status [2ms]
+2025-08-10 08:32:40.852 [info] fatal: not a git repository (or any of the parent directories): .git

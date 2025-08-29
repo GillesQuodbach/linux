@@ -1,0 +1,6 @@
+2025-08-27 15:44:12.566 [info] Getting Manifest... eamodio.gitlens
+2025-08-27 15:44:13.530 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.99.3","date":"2025-08-07T17:53:24.476Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json","path":"/home/codebash/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-08-27 15:44:17.040 [info] Extracted extension to file:///home/codebash/.windsurf/extensions/eamodio.gitlens-17.4.1-universal: eamodio.gitlens
+2025-08-27 15:44:17.065 [info] Renamed to /home/codebash/.windsurf/extensions/eamodio.gitlens-17.4.1-universal
+2025-08-27 15:44:17.093 [info] Marked extension as removed eamodio.gitlens-17.3.4-universal
+2025-08-27 15:44:17.122 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json

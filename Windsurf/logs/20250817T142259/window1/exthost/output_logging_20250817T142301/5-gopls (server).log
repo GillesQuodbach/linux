@@ -1,0 +1,306 @@
+[Info  - 14:24:50] 2025/08/17 14:24:50 Created View (#1)
+	directory=/home/codebash/dev/test_go
+	view_type="AdHoc"
+	root_dir="file:///home/codebash/dev/test_go"
+	go_version="go version go1.24.6 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/codebash/.cache/go-build GOMODCACHE:/home/codebash/go/pkg/mod GOPATH:/home/codebash/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.6 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 14:24:50] 2025/08/17 14:24:50 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/codebash/dev/test_go
+	query=[./ builtin]
+	packages=2
+	duration=20.083254ms
+
+[Info  - 14:25:20] 2025/08/17 14:25:20 background imports cache refresh starting
+
+[Info  - 14:25:20] 2025/08/17 14:25:20 background refresh finished after 1.895563ms
+
+[Info  - 14:25:52] 2025/08/17 14:25:52 Created View (#2)
+	directory=/home/codebash/dev/test_go
+	view_type="GoMod"
+	root_dir="file:///home/codebash/dev/test_go"
+	go_version="go version go1.24.6 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/codebash/.cache/go-build GOMODCACHE:/home/codebash/go/pkg/mod GOPATH:/home/codebash/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.6 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 14:25:52] 2025/08/17 14:25:52 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/codebash/dev/test_go
+	query=[/home/codebash/dev/test_go/... builtin]
+	packages=2
+	duration=17.748734ms
+
+[Info  - 14:26:22] 2025/08/17 14:26:22 background imports cache refresh starting
+
+[Info  - 14:26:22] 2025/08/17 14:26:22 background refresh finished after 27.010897ms
+
+[Error - 14:26:26] 2025/08/17 14:26:26 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:1
+
+[Error - 14:26:26] 2025/08/17 14:26:26 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:2
+
+[Error - 14:26:26] 2025/08/17 14:26:26 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:3
+
+[Error - 14:26:26] 2025/08/17 14:26:26 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:4
+
+[Error - 14:26:26] 2025/08/17 14:26:26 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:5
+
+[Error - 14:26:48] 2025/08/17 14:26:48 imports fixes: allImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found Print
+	file="/home/codebash/dev/test_go/main.go"
+
+[Error - 14:26:49] 2025/08/17 14:26:49 imports fixes: allImportsFixes: importPrefix: failed to parse: 2:1: expected 'package', found Print
+	file="/home/codebash/dev/test_go/main.go"
+
+[Error - 14:26:51] 2025/08/17 14:26:51 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:2
+
+[Error - 14:26:52] 2025/08/17 14:26:52 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:3
+
+[Error - 14:26:52] 2025/08/17 14:26:52 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:4
+
+[Error - 14:26:52] 2025/08/17 14:26:52 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:5
+
+[Error - 14:26:52] 2025/08/17 14:26:52 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:6
+
+[Error - 14:26:52] 2025/08/17 14:26:52 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:7
+
+[Error - 14:26:56] 2025/08/17 14:26:56 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:3
+
+[Error - 14:26:56] 2025/08/17 14:26:56 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:4
+
+[Error - 14:26:56] 2025/08/17 14:26:56 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:5
+
+[Error - 14:26:57] 2025/08/17 14:26:57 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:6
+
+[Error - 14:26:57] 2025/08/17 14:26:57 no completions found: getting file file:///home/codebash/dev/test_go/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:7
+
+[Info  - 14:27:04] 2025/08/17 14:27:04 go/packages.Load #4
+	view_id="2"
+	snapshot=60
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=7.471101ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #6
+	view_id="2"
+	snapshot=61
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=8.45715ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #5
+	view_id="2"
+	snapshot=61
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=9.361255ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #8
+	view_id="2"
+	snapshot=62
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=15.092645ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #7
+	view_id="2"
+	snapshot=62
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=15.306345ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #10
+	view_id="2"
+	snapshot=63
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=12.965273ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #9
+	view_id="2"
+	snapshot=63
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=13.938276ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #11
+	view_id="2"
+	snapshot=64
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=7.838714ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #12
+	view_id="2"
+	snapshot=64
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=7.342598ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #13
+	view_id="2"
+	snapshot=65
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=15.250722ms
+
+[Info  - 14:27:05] 2025/08/17 14:27:05 go/packages.Load #14
+	view_id="2"
+	snapshot=65
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=13.038965ms
+
+[Info  - 14:27:06] 2025/08/17 14:27:06 go/packages.Load #15
+	view_id="2"
+	snapshot=66
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=8.242875ms
+
+[Info  - 14:27:06] 2025/08/17 14:27:06 go/packages.Load #16
+	view_id="2"
+	snapshot=66
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=7.580751ms
+
+[Info  - 14:27:06] 2025/08/17 14:27:06 go/packages.Load #17
+	view_id="2"
+	snapshot=67
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=52.456187ms
+
+[Info  - 14:27:06] 2025/08/17 14:27:06 go/packages.Load #18
+	view_id="2"
+	snapshot=67
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=51.865226ms
+
+[Error - 14:27:12] 2025/08/17 14:27:12 imports fixes: allImportsFixes: /home/codebash/dev/test_go/main.go:2:1: expected declaration, found Print
+	file="/home/codebash/dev/test_go/main.go"
+
+[Error - 14:28:15] 2025/08/17 14:28:15 imports fixes: allImportsFixes: /home/codebash/dev/test_go/main.go:3:7: expected '(', found newline (and 4 more errors)
+	file="/home/codebash/dev/test_go/main.go"
+
+[Error - 14:28:15] 2025/08/17 14:28:15 imports fixes: allImportsFixes: /home/codebash/dev/test_go/main.go:3:10: expected '(', found newline (and 4 more errors)
+	file="/home/codebash/dev/test_go/main.go"
+
+[Error - 14:28:32] 2025/08/17 14:28:32 imports fixes: allImportsFixes: /home/codebash/dev/test_go/main.go:6:1: expected declaration, found Print
+	file="/home/codebash/dev/test_go/main.go"
+
+[Info  - 14:28:44] 2025/08/17 14:28:44 background imports cache refresh starting
+
+[Info  - 14:28:44] 2025/08/17 14:28:44 background refresh finished after 2.581138ms
+
+[Info  - 14:29:32] 2025/08/17 14:29:32 go/packages.Load #19
+	view_id="2"
+	snapshot=95
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=30.458134ms
+
+[Info  - 14:29:32] 2025/08/17 14:29:32 go/packages.Load #20
+	view_id="2"
+	snapshot=95
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=29.423126ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #21
+	view_id="2"
+	snapshot=96
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=28.169826ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #22
+	view_id="2"
+	snapshot=96
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=24.029422ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #23
+	view_id="2"
+	snapshot=97
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=31.577721ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #24
+	view_id="2"
+	snapshot=97
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=27.458023ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #25
+	view_id="2"
+	snapshot=98
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=73.454973ms
+
+[Info  - 14:29:33] 2025/08/17 14:29:33 go/packages.Load #26
+	view_id="2"
+	snapshot=98
+	directory=/home/codebash/dev/test_go
+	query=[file=/home/codebash/dev/test_go/main.go]
+	packages=1
+	duration=47.112957ms
+
+[Info  - 14:29:44] 2025/08/17 14:29:44 background imports cache refresh starting
+
+[Info  - 14:29:44] 2025/08/17 14:29:44 background refresh finished after 1.355988ms
+
+[Info  - 14:36:08] 2025/08/17 14:36:08 background imports cache refresh starting
+
+[Info  - 14:36:08] 2025/08/17 14:36:08 background refresh finished after 2.225534ms
+

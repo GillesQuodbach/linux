@@ -1,0 +1,79 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b807c2045635b5f0b41e0463b5ea4ddfe8d8dc6b6380300644cda2b24c21d3b2",
+    "telemetry.macMachineId": "c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7",
+    "telemetry.devDeviceId": "c99073f5-7ed5-4b7b-9206-dad28a33cb20",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/codebash/dev/growing-app"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/codebash/dev/QuitSmokingApp": "__default__profile__",
+            "file:///home/codebash/dev/stop_alcool": "__default__profile__",
+            "file:///home/codebash/dev/growing-app": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/codebash/dev/growing-app",
+            "backupPath": "/home/codebash/.config/Cursor/Backups/6a7d361507037561d651ab24a11ecdca",
+            "uiState": {
+                "mode": 1,
+                "x": 5462,
+                "y": 64,
+                "width": 1876,
+                "height": 994
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 301,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                301,
+                [
+                    "2d95366839783df58210366ecf7d4a13",
+                    "cb93d58dddb3c1346e40d5c526c6a04b",
+                    "72d0f2f40588566449bff4c872e51257"
+                ]
+            ]
+        }
+    }
+}

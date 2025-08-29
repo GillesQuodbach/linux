@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.RunAndroidSdkManager">
+      <i c="1" l="1754815577772" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1754816760145" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1755331153841" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1754825907815" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1754817464524" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1754815573408" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1754815548199" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1754815510124" />
+    </e>
+    <e n="android.emulator.extended.controls">
+      <i c="2" l="1754825914291" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="2" l="1754816809748" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.ColdBootAction">
+      <i c="18" l="1755331005959" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeleteAction">
+      <i c="2" l="1754816801735" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="2" l="1754816811877" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.EditDeviceAction">
+      <i c="1" l="1754815838157" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.WipeDataAction">
+      <i c="1" l="1754825263829" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1754815536330" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1755204881201" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="32" l="1755330914415" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1755331152570" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1754815504210" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1754815593204" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1754816759003" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1754924472138" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1754817470236" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1754817467094" />
+    </e>
+  </component>
+</application>

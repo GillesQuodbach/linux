@@ -1,0 +1,80 @@
+2025-08-10 08:29:24.543 [error] Error getting repo info: Failed to execute git
+2025-08-10 08:29:24.543 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-10 08:29:24.543 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 08:29:24.543 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 08:29:24.695 [info] Using existing keys for an index
+2025-08-10 08:29:24.695 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 08:29:24.761 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:29:24.849 [info] Setting global status from status tracker: synced
+2025-08-10 08:29:24.849 [info] Doing a startup handshake.
+2025-08-10 08:29:25.407 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:29:25.672 [info] Finished computing merkle tree in 164.19368899999972 ms.
+2025-08-10 08:29:25.708 [info] Doing the initial handshake with hash: f133d329d554a608f4a479ce6193955b5d540f3e12e16e576a6f04b8ed680104
+2025-08-10 08:29:25.724 [info] Computed simhash vector of length: 256
+2025-08-10 08:29:25.724 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-10 08:29:25.724 [info] Handshake start
+2025-08-10 08:29:26.125 [info] Handshake timing: 404.91041100000075, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_EMPTY","copyTaskHandle":""},{"codebaseId":"88147530-a9b7-4602-a10c-0d804d009dd0","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:29:26.126 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_EMPTY","copyTaskHandle":""},{"codebaseId":"88147530-a9b7-4602-a10c-0d804d009dd0","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:29:26.126 [info] Starting fast remote sync.
+2025-08-10 08:29:26.126 [info] Total num embeddable files: 22
+2025-08-10 08:29:26.127 [info] Root hash: f133d329d554a608f4a479ce6193955b5d540f3e12e16e576a6f04b8ed680104
+2025-08-10 08:29:26.127 [info] Starting repository upload from scratch.
+2025-08-10 08:29:26.127 [info] In the out of sync case.
+2025-08-10 08:29:26.127 [info] Uploading 22 files.
+2025-08-10 08:29:26.129 [info] Waiting on semaphore to be released 1
+2025-08-10 08:29:26.130 [info] Total number of files to embed: 22
+2025-08-10 08:29:26.130 [info] Not aborted
+2025-08-10 08:29:26.130 [info] Starting while loop.
+2025-08-10 08:29:26.189 [info] syncing batch of 2 files and 947 bytes
+2025-08-10 08:29:26.328 [info] Waiting on semaphore to be released 1
+2025-08-10 08:29:26.328 [info] [startSync]: sending sync merkle subtree batch of size 4
+2025-08-10 08:29:26.528 [info] Waiting on semaphore to be released 1
+2025-08-10 08:29:26.566 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app.json
+2025-08-10 08:29:26.567 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./babel.config.js
+2025-08-10 08:29:26.567 [info] syncing batch of 4 files and 2885 bytes
+2025-08-10 08:29:26.728 [info] setting numJobsToGo to 6
+2025-08-10 08:29:26.728 [info] [startSync]: numJobs: 6
+2025-08-10 08:29:26.728 [info] Uploading 6 files.
+2025-08-10 08:29:26.728 [info] Total number of files to embed: 22
+2025-08-10 08:29:26.728 [info] Not aborted
+2025-08-10 08:29:26.728 [info] Starting while loop.
+2025-08-10 08:29:26.729 [info] syncing batch of 2 files and 1266 bytes
+2025-08-10 08:29:27.608 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./db/connection.ts
+2025-08-10 08:29:27.608 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./lib/notifications-setup.ts
+2025-08-10 08:29:27.608 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./lib/hydro.ts
+2025-08-10 08:29:27.608 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./lib/notifications.ts
+2025-08-10 08:29:27.610 [info] syncing batch of 8 files and 12038 bytes
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./.gitignore
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./index.ts
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/plant/edit.tsx
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/plant/[id].tsx
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/(tabs)/hydro.tsx
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/(tabs)/plants.tsx
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/(tabs)/settings.tsx
+2025-08-10 08:29:28.644 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/(tabs)/_layout.tsx
+2025-08-10 08:29:28.645 [info] syncing batch of 8 files and 6313 bytes
+2025-08-10 08:29:29.277 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./package.json
+2025-08-10 08:29:29.277 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./store/settings.ts
+2025-08-10 08:29:29.279 [info] syncing batch of 4 files and 3138 bytes
+2025-08-10 08:29:29.639 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/(tabs)/index.tsx
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./app/_layout.tsx
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./package.json
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./store/plants.ts
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./store/settings.ts
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./tsconfig.json
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./App.tsx
+2025-08-10 08:29:29.640 [info] Completed job successfully: 716eb895-d2d0-4793-86f4-8ecb41d708b6 ./store/fertilizers.ts
+2025-08-10 08:29:34.289 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./lib/notifications-setup.ts
+2025-08-10 08:29:34.289 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./db/connection.ts
+2025-08-10 08:29:34.289 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./app/(tabs)/_layout.tsx
+2025-08-10 08:29:34.289 [info] Completed job successfully: 88147530-a9b7-4602-a10c-0d804d009dd0 ./app/(tabs)/index.tsx
+2025-08-10 08:29:34.407 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 08:29:34.407 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 08:29:35.838 [info] Finished indexing repository.
+2025-08-10 08:29:35.838 [info] Indexing job successfully done or aborted.
+2025-08-10 08:31:41.295 [info] multiCodebaseIndexingJob dispose
+2025-08-10 08:31:41.295 [info] Aborting indexing job.

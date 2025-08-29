@@ -1,0 +1,83 @@
+2025-08-10 08:56:15.043 [error] Failed to check if file sync is enabled for user {}
+2025-08-10 08:56:15.043 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-10 08:56:15.043 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-10 08:56:15.184 [info] [registerEventListeners] Registering event listeners
+2025-08-10 08:56:16.134 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-10 08:56:16.251 [info] Fetched fsConfig in 117.38285499999984ms
+2025-08-10 08:56:16.251 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-10 08:56:16.493 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-10 08:56:16.861 [info] Fetched fsConfig in 367.5653400000001ms
+2025-08-10 08:56:16.861 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-10 08:56:16.861 [info] File sync enabled status: true
+2025-08-10 08:56:16.861 [info] Starting sync of visible tabs
+2025-08-10 08:56:16.861 [info] Synced all visible tabs in 0.11403599999994185ms
+2025-08-10 08:56:17.377 [info] Starting sync of visible tabs
+2025-08-10 08:56:17.377 [info] Synced all visible tabs in 0.20896099999936268ms
+2025-08-10 08:56:17.495 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-10 08:56:17.612 [info] Fetched fsConfig in 116.41807599999993ms
+2025-08-10 08:56:17.612 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-10 09:05:22.917 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 389.87125399999786ms
+2025-08-10 09:05:22.919 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 394.93847500008997ms
+2025-08-10 09:05:22.920 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 403.94595399999525ms
+2025-08-10 09:05:22.925 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 136.75882900005672ms
+2025-08-10 09:05:22.926 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 404.43016599991824ms
+2025-08-10 09:05:22.960 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 169.44984599994496ms
+2025-08-10 09:05:39.586 [info] Uploaded file PlantApp/src/contexts/PlantContext.tsx modelVersion=4 in 121.26573199999984ms
+2025-08-10 09:05:39.596 [info] Uploaded file PlantApp/src/contexts/PlantContext.tsx modelVersion=4 in 125.46777099999599ms
+2025-08-10 09:05:39.600 [info] Uploaded file PlantApp/src/contexts/PlantContext.tsx modelVersion=4 in 126.84923699998762ms
+2025-08-10 09:05:39.601 [info] Uploaded file PlantApp/src/contexts/PlantContext.tsx modelVersion=4 in 126.50445299991407ms
+2025-08-10 09:05:53.979 [info] Uploaded file PlantApp/src/hooks/useNotifications.ts modelVersion=2 in 117.82758900010958ms
+2025-08-10 09:05:53.992 [info] Uploaded file PlantApp/src/hooks/useNotifications.ts modelVersion=4 in 117.25224199995864ms
+2025-08-10 09:05:53.999 [info] Uploaded file PlantApp/src/hooks/useNotifications.ts modelVersion=4 in 119.11108299996704ms
+2025-08-10 09:05:54.000 [info] Uploaded file PlantApp/src/hooks/useNotifications.ts modelVersion=4 in 118.93148599995766ms
+2025-08-10 09:06:09.590 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 118.91808899992611ms
+2025-08-10 09:06:09.592 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 118.75766000000294ms
+2025-08-10 09:06:09.598 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 121.86618099990301ms
+2025-08-10 09:06:09.598 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 119.3846139999805ms
+2025-08-10 09:06:09.704 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 116.5400030000601ms
+2025-08-10 09:06:09.705 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 118.87939000001643ms
+2025-08-10 09:06:32.337 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=4 in 385.65635000006296ms
+2025-08-10 09:06:32.338 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=4 in 355.19898400001694ms
+2025-08-10 09:06:32.339 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=2 in 433.1655970000429ms
+2025-08-10 09:06:32.339 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=4 in 298.76779299997725ms
+2025-08-10 09:06:32.340 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=4 in 301.0542500000447ms
+2025-08-10 09:06:32.341 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=4 in 386.72256200003903ms
+2025-08-10 09:06:37.552 [info] Synced file PlantApp/src/components/PlantForm.tsx modelVersion=7 in 115.93664899992291ms
+2025-08-10 09:06:51.850 [info] Uploaded file PlantApp/src/screens/HomeScreen.tsx modelVersion=2 in 115.47929499996826ms
+2025-08-10 09:06:51.865 [info] Uploaded file PlantApp/src/screens/HomeScreen.tsx modelVersion=4 in 119.79635800002143ms
+2025-08-10 09:06:51.866 [info] Uploaded file PlantApp/src/screens/HomeScreen.tsx modelVersion=4 in 122.10171399998944ms
+2025-08-10 09:06:51.866 [info] Uploaded file PlantApp/src/screens/HomeScreen.tsx modelVersion=4 in 120.00205599993933ms
+2025-08-10 09:07:01.352 [info] Uploaded file PlantApp/src/screens/AddPlantScreen.tsx modelVersion=2 in 125.51946199999657ms
+2025-08-10 09:07:01.406 [info] Uploaded file PlantApp/src/screens/AddPlantScreen.tsx modelVersion=4 in 154.56945099995937ms
+2025-08-10 09:07:01.409 [info] Uploaded file PlantApp/src/screens/AddPlantScreen.tsx modelVersion=4 in 126.43063800001983ms
+2025-08-10 09:07:01.415 [info] Uploaded file PlantApp/src/screens/AddPlantScreen.tsx modelVersion=4 in 150.55440799996722ms
+2025-08-10 09:07:09.353 [info] Uploaded file PlantApp/src/screens/EditPlantScreen.tsx modelVersion=4 in 117.24598899995908ms
+2025-08-10 09:07:09.374 [info] Uploaded file PlantApp/src/screens/EditPlantScreen.tsx modelVersion=4 in 123.7635790000204ms
+2025-08-10 09:07:09.376 [info] Uploaded file PlantApp/src/screens/EditPlantScreen.tsx modelVersion=4 in 133.58338999992702ms
+2025-08-10 09:07:09.382 [info] Uploaded file PlantApp/src/screens/EditPlantScreen.tsx modelVersion=4 in 127.75155599997379ms
+2025-08-10 09:07:41.965 [info] Uploaded file PlantApp/src/screens/PlantDetailScreen.tsx modelVersion=2 in 115.22153300000355ms
+2025-08-10 09:07:41.974 [info] Uploaded file PlantApp/src/screens/PlantDetailScreen.tsx modelVersion=4 in 117.8841919999104ms
+2025-08-10 09:07:42.046 [info] Uploaded file PlantApp/src/screens/PlantDetailScreen.tsx modelVersion=4 in 188.80804200004786ms
+2025-08-10 09:07:42.047 [info] Uploaded file PlantApp/src/screens/PlantDetailScreen.tsx modelVersion=4 in 189.8849850000115ms
+2025-08-10 09:08:22.326 [info] Uploaded file PlantApp/src/screens/FertilizerHistoryScreen.tsx modelVersion=4 in 120.57912499993108ms
+2025-08-10 09:08:22.327 [info] Uploaded file PlantApp/src/screens/FertilizerHistoryScreen.tsx modelVersion=4 in 122.93126199999824ms
+2025-08-10 09:08:22.405 [info] Uploaded file PlantApp/src/screens/FertilizerHistoryScreen.tsx modelVersion=4 in 195.75560899998527ms
+2025-08-10 09:08:22.406 [info] Uploaded file PlantApp/src/screens/FertilizerHistoryScreen.tsx modelVersion=4 in 195.49735499999952ms
+2025-08-10 09:09:19.706 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 115.9311400000006ms
+2025-08-10 09:09:19.708 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 119.58828499994706ms
+2025-08-10 09:09:19.728 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 133.92559200001415ms
+2025-08-10 09:09:19.732 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 136.48201400006656ms
+2025-08-10 09:09:19.829 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 125.6844769999152ms
+2025-08-10 09:09:19.830 [info] Uploaded file PlantApp/src/screens/HydroponicDataScreen.tsx modelVersion=4 in 125.18464500003029ms
+2025-08-10 09:11:12.720 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-10 09:11:12.841 [info] Fetched fsConfig in 121.06880899996031ms
+2025-08-10 09:11:12.842 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-10 09:11:12.842 [info] File sync enabled status: true
+2025-08-10 09:11:12.842 [info] Starting sync of visible tabs
+2025-08-10 09:11:12.842 [info] Synced all visible tabs in 0.08839699998497963ms
+2025-08-10 09:11:22.834 [info] Uploaded file PlantApp/src/types/index.ts modelVersion=4 in 158.841141999932ms
+2025-08-10 09:11:22.837 [info] Uploaded file PlantApp/src/contexts/PlantContext.tsx modelVersion=4 in 143.6094189999858ms
+2025-08-10 09:11:22.838 [info] Uploaded file PlantApp/src/hooks/useNotifications.ts modelVersion=4 in 142.78116399992723ms
+2025-08-10 09:11:22.843 [info] Uploaded file PlantApp/src/components/PlantCard.tsx modelVersion=4 in 148.55683500005398ms
+2025-08-10 09:11:22.886 [info] Uploaded file PlantApp/src/screens/HomeScreen.tsx modelVersion=4 in 187.4916029999731ms
+2025-08-10 09:11:22.888 [info] Uploaded file PlantApp/src/components/PlantForm.tsx modelVersion=7 in 191.36485500005074ms

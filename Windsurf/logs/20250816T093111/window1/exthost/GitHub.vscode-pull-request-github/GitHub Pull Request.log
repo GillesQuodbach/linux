@@ -1,0 +1,26 @@
+2025-08-16 09:31:19.059 [info] [Activation] Extension version: 0.108.0
+2025-08-16 09:31:19.127 [info] [Activation] Looking for git repository
+2025-08-16 09:31:19.127 [info] [Activation] Found 0 repositories during activation
+2025-08-16 09:31:19.127 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-08-16 09:31:19.133 [info] [GitAPI] Registering git provider
+2025-08-16 09:31:19.133 [info] [Review+0] Validate state in progress
+2025-08-16 09:31:19.133 [info] [Review+0] Validating state...
+2025-08-16 09:31:19.167 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/codebash/CascadeProjects/PlantApp
+2025-08-16 09:31:19.169 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-08-16 09:31:19.192 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-16 09:31:19.192 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-08-16 09:31:19.194 [info] [FolderRepositoryManager+0] GlobalState does not exist for assignableUsers.
+2025-08-16 09:37:45.335 [info] [Activation] Repo state for file:///home/codebash/CascadeProjects/PlantApp changed.
+2025-08-16 09:37:45.335 [info] [Activation] Repo file:///home/codebash/CascadeProjects/PlantApp has already been setup.
+2025-08-16 09:59:45.736 [info] [Review+0] Validate state in progress
+2025-08-16 09:59:45.736 [info] [Review+0] Validating state...
+2025-08-16 09:59:45.750 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/codebash/CascadeProjects/PlantApp
+2025-08-16 09:59:45.751 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-08-16 09:59:45.759 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-16 09:59:45.759 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-08-16 11:20:46.930 [info] [Review+0] Validate state in progress
+2025-08-16 11:20:46.930 [info] [Review+0] Validating state...
+2025-08-16 11:20:46.945 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/codebash/CascadeProjects/PlantApp
+2025-08-16 11:20:46.946 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-08-16 11:20:46.953 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-08-16 11:20:46.953 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,12 @@
+2025-08-10 08:56:15.070 [info] [2025-08-10 06:56:14.974] [         29ms] [/home/codebash/dev/growing-app] git rev-parse --show-toplevel • FAILED
+2025-08-10 08:56:15.070 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-10 09:03:14.050 [info] [2025-08-10 07:03:14.050] [         12ms] [/home/codebash/dev/growing-app] git rev-parse --show-toplevel • FAILED
+2025-08-10 09:03:14.050 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-10 09:03:14.059 [info] [2025-08-10 07:03:14.059] [          7ms] [/home/codebash/dev/growing-app] git rev-parse --show-toplevel • FAILED
+2025-08-10 09:03:14.059 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

@@ -1,0 +1,131 @@
+2025-08-11 21:29:13.155 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.155 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.155 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.155 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.156 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-11 21:29:13.339 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-08-11 21:29:13.407 [error] Window not found: Error: Window not found
+    at Rui.getWindowsInGroup (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3482:8541)
+    at new H8t (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1925:176396)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3310
+    at Mvi.d (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78502)
+    at get value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78644)
+    at Object.get (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3833)
+    at Poe._runFn (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:17143)
+    at Poe.l (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22641)
+    at new Poe (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22353)
+2025-08-11 21:29:13.565 [info] Started local extension host with pid 56838.
+2025-08-11 21:29:15.439 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-08-11 21:29:16.282 [info] [perf] Render performance baseline is 39ms
+2025-08-11 21:30:13.009 [error] [17b] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at URs.create (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11854)
+    at nDt.q [as onDidChangeReadonly] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1379)
+    at Oet.wb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:9988)
+    at new Oet (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:9856)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at bpi.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1087)
+    at hli.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:6858)
+    at hli.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:6558)
+    at yVt.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22578)
+    at yVt.f (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22191)
+2025-08-11 21:30:13.018 [error] [17a] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at URs.create (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11854)
+    at nDt.q [as onDidChangeFilesAssociation] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1379)
+    at Oet.wb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:9929)
+    at new Oet (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:9856)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at bpi.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1087)
+    at hli.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:6858)
+    at hli.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:6558)
+    at yVt.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22578)
+    at yVt.f (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22191)
+2025-08-11 21:30:15.257 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at fli.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:10881)
+    at async fli.readStream (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:10508)
+    at async Oet.Eb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:12941)
+    at async Oet.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:11416)
+    at async hli.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:7029)
+    at async yVt.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22559)
+    at async Sbi.acquire (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3131)
+    at async CVt.createModelReference (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:24090)
+    at async Promise.all (index 0)
+    at async wwi.c (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1316:22938)
+2025-08-11 21:30:15.316 [error] [469] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at URs.create (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11854)
+    at Fvt.q [as onDidChange] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1379)
+    at new Np (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:250:22295)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at bpi.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1087)
+    at _Vt.I (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:410:1910)
+    at _Vt.createModel (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:411:861)
+    at Oet.I (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:721:10279)
+    at Oet.H (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:721:10171)
+    at Oet.Gb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:13963)
+2025-08-11 21:30:15.322 [error] [172] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at URs.create (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11854)
+    at rOs.q [as onDidChange] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1379)
+    at new zxt (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:490:25159)
+    at a (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:490:23636)
+    at xVe.value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:490:23878)
+    at T.B (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2394)
+    at T.C (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2464)
+    at T.fire (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2682)
+    at _Vt.createModel (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:411:898)
+    at Oet.I (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:721:10279)
+2025-08-11 21:30:15.344 [error] [040] potential listener LEAK detected, having 200 listeners already. MOST frequent listener (1):: Error
+    at URs.create (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11854)
+    at QO.q [as l] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1379)
+    at QO.c (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:30135)
+    at QO.addObserver (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16829)
+    at Object.onWillAddFirstListener (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9809)
+    at kRt.q [as onDidChange] (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1567)
+    at new Np (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:250:21727)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at bpi.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1087)
+    at _Vt.I (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:410:1910)
+2025-08-11 21:30:15.571 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at fli.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:10881)
+    at async fli.readStream (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:10508)
+    at async Oet.Eb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:12941)
+    at async Oet.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:11416)
+    at async hli.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3421:7029)
+    at async yVt.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:22559)
+    at async Sbi.acquire (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3131)
+    at async CVt.createModelReference (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1888:24090)
+    at async Promise.all (index 0)
+    at async wwi.c (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1316:22938)
+2025-08-11 21:35:06.075 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 21:35:15.877 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 21:35:34.842 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 21:36:18.310 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 21:39:39.040 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 21:40:10.746 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 22:18:30.700 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 22:20:16.110 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 22:20:51.326 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-11 22:22:31.975 [error] An unknown error occurred. Please consult the log for more details.

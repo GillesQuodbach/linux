@@ -1,0 +1,65 @@
+2025-08-27 15:44:11.620 [info] [main] Log level: Info
+2025-08-27 15:44:11.620 [info] [main] Validating found git in: "git"
+2025-08-27 15:44:11.620 [info] [main] Using git "2.51.0" from "git"
+2025-08-27 15:44:11.620 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-27 15:44:11.620 [info] > git rev-parse --show-toplevel [20ms]
+2025-08-27 15:44:11.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 15:44:11.620 [info] > git rev-parse --show-toplevel [35ms]
+2025-08-27 15:44:11.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 15:44:11.620 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-27 15:44:11.649 [info] > git rev-parse --show-toplevel [338ms]
+2025-08-27 15:44:11.649 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 15:44:11.684 [info] > git rev-parse --show-toplevel [7ms]
+2025-08-27 15:44:11.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 16:00:15.540 [info] > git rev-parse --show-toplevel [4ms]
+2025-08-27 16:00:15.540 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 16:00:16.310 [info] > git rev-parse --show-toplevel [4ms]
+2025-08-27 16:00:16.310 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-27 16:00:33.854 [info] [main] Log level: Info
+2025-08-27 16:00:33.854 [info] [main] Validating found git in: "git"
+2025-08-27 16:00:33.854 [info] [main] Using git "2.51.0" from "git"
+2025-08-27 16:00:33.854 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-27 16:00:33.854 [info] > git rev-parse --show-toplevel [28ms]
+2025-08-27 16:00:33.906 [info] > git rev-parse --git-dir --git-common-dir [1999ms]
+2025-08-27 16:00:33.941 [info] [Model][openRepository] Opened repository: /home/codebash/CascadeProjects/PlantApp
+2025-08-27 16:00:34.141 [info] > git rev-parse --show-toplevel [75ms]
+2025-08-27 16:00:34.142 [info] > git config --get commit.template [92ms]
+2025-08-27 16:00:34.363 [info] > git rev-parse --show-toplevel [112ms]
+2025-08-27 16:00:34.381 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2025-08-27 16:00:34.389 [info] > git rev-parse --show-toplevel [10ms]
+2025-08-27 16:00:34.588 [info] > git rev-parse --show-toplevel [153ms]
+2025-08-27 16:00:34.594 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-27 16:00:34.675 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [89ms]
+2025-08-27 16:00:34.752 [info] > git show --textconv :src/components/PlantCard.js [19ms]
+2025-08-27 16:00:34.787 [info] > git ls-files --stage -- src/components/PlantCard.js [36ms]
+2025-08-27 16:00:34.806 [info] > git cat-file -s 216f95446d1656ada9d1e8400cccd1d08b94b7bf [3ms]
+2025-08-27 16:00:34.834 [info] > git status -z -uall [269ms]
+2025-08-27 16:00:34.958 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [67ms]
+2025-08-27 16:00:35.020 [info] > git config --get --local branch.main.vscode-merge-base [43ms]
+2025-08-27 16:00:35.021 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-27 16:00:35.037 [info] > git config --get commit.template [124ms]
+2025-08-27 16:00:35.069 [info] > git reflog main --grep-reflog=branch: Created from *. [34ms]
+2025-08-27 16:00:35.191 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [102ms]
+2025-08-27 16:00:35.191 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-08-27 16:00:35.191 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-08-27 16:00:35.314 [info] > git check-ignore -v -z --stdin [91ms]
+2025-08-27 16:00:35.316 [info] > git merge-base refs/heads/main refs/remotes/origin/main [108ms]
+2025-08-27 16:00:35.328 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [142ms]
+2025-08-27 16:00:35.336 [info] > git diff --name-status -z --diff-filter=ADMR f8c4ae1da9959026a58b30e72e98361dee35aa0a...refs/remotes/origin/main [9ms]
+2025-08-27 16:00:35.389 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-27 16:00:35.561 [info] > git status -z -uall [204ms]
+2025-08-27 16:00:43.274 [info] > git config --get --local branch.main.github-pr-owner-number [10ms]
+2025-08-27 16:00:43.274 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-27 16:02:52.706 [info] > git config --get commit.template [19ms]
+2025-08-27 16:02:52.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-27 16:02:52.747 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2025-08-27 16:02:52.891 [info] > git status -z -uall [173ms]
+2025-08-27 16:03:54.325 [info] > git config --get commit.template [1ms]
+2025-08-27 16:03:54.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-27 16:03:54.360 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-27 16:03:54.431 [info] > git status -z -uall [91ms]
+2025-08-27 16:07:32.975 [info] > git blame --root --incremental f8c4ae1da9959026a58b30e72e98361dee35aa0a -- src/components/PlantCard.js [39ms]
+2025-08-27 16:07:44.934 [info] > git config --get commit.template [7ms]
+2025-08-27 16:07:44.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-27 16:07:44.950 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-27 16:07:44.995 [info] > git status -z -uall [53ms]

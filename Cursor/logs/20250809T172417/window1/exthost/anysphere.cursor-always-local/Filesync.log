@@ -1,0 +1,258 @@
+2025-08-09 17:24:24.338 [error] Failed to check if file sync is enabled for user {}
+2025-08-09 17:24:24.338 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 17:24:24.338 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 17:24:24.338 [info] [registerEventListeners] Registering event listeners
+2025-08-09 17:24:25.377 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:25.508 [info] Fetched fsConfig in 130.64092600000004ms
+2025-08-09 17:24:25.508 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:24:25.911 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:26.250 [info] Fetched fsConfig in 339.6404389999998ms
+2025-08-09 17:24:26.251 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:24:26.251 [info] File sync enabled status: true
+2025-08-09 17:24:26.251 [info] Starting sync of visible tabs
+2025-08-09 17:24:26.251 [info] Synced all visible tabs in 0.05360300000029383ms
+2025-08-09 17:24:26.799 [info] Starting sync of visible tabs
+2025-08-09 17:24:26.799 [info] Synced all visible tabs in 0.11868699999831733ms
+2025-08-09 17:24:26.912 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:27.027 [info] Fetched fsConfig in 114.93514000000141ms
+2025-08-09 17:24:27.027 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:24:32.463 [error] Failed to check if file sync is enabled for user {}
+2025-08-09 17:24:32.463 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 17:24:32.463 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 17:24:32.463 [info] [registerEventListeners] Registering event listeners
+2025-08-09 17:24:33.643 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:33.760 [info] Fetched fsConfig in 117.0792849999998ms
+2025-08-09 17:24:33.760 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:24:34.139 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:34.474 [info] Fetched fsConfig in 334.9005699999998ms
+2025-08-09 17:24:34.474 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:24:34.474 [info] File sync enabled status: true
+2025-08-09 17:24:34.474 [info] Starting sync of visible tabs
+2025-08-09 17:24:34.475 [info] Synced all visible tabs in 0.12993199999982608ms
+2025-08-09 17:24:35.024 [info] Starting sync of visible tabs
+2025-08-09 17:24:35.025 [info] Synced all visible tabs in 0.2059979999994539ms
+2025-08-09 17:24:35.144 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:24:35.260 [info] Fetched fsConfig in 115.47264099999938ms
+2025-08-09 17:24:35.260 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:42:33.906 [info] Uploaded file package.json modelVersion=2 in 392.9883270000573ms
+2025-08-09 17:42:33.907 [info] Uploaded file package.json modelVersion=2 in 362.5318589999806ms
+2025-08-09 17:42:33.908 [info] Uploaded file package.json modelVersion=2 in 349.5190850000363ms
+2025-08-09 17:42:33.908 [info] Uploaded file package.json modelVersion=2 in 351.794608999975ms
+2025-08-09 17:42:48.710 [info] Uploaded file app.json modelVersion=2 in 113.91953100007959ms
+2025-08-09 17:42:48.714 [info] Uploaded file app.json modelVersion=2 in 116.30142999999225ms
+2025-08-09 17:42:48.724 [info] Uploaded file app.json modelVersion=2 in 112.53418199997395ms
+2025-08-09 17:42:48.725 [info] Uploaded file app.json modelVersion=2 in 114.78138899989426ms
+2025-08-09 17:43:00.647 [info] Uploaded file App.tsx modelVersion=3 in 124.81157099991105ms
+2025-08-09 17:43:00.648 [info] Uploaded file App.tsx modelVersion=3 in 124.06166300014593ms
+2025-08-09 17:43:00.648 [info] Uploaded file App.tsx modelVersion=3 in 123.74414799991064ms
+2025-08-09 17:43:00.704 [info] Uploaded file App.tsx modelVersion=3 in 116.82096299994737ms
+2025-08-09 17:43:00.705 [info] Uploaded file App.tsx modelVersion=3 in 119.46940999990329ms
+2025-08-09 17:43:18.226 [info] Uploaded file index.ts modelVersion=3 in 117.56124100019224ms
+2025-08-09 17:43:18.235 [info] Uploaded file index.ts modelVersion=3 in 123.7749359998852ms
+2025-08-09 17:43:18.237 [info] Uploaded file index.ts modelVersion=3 in 123.70706399995834ms
+2025-08-09 17:43:18.280 [info] Uploaded file index.ts modelVersion=3 in 116.08669700007886ms
+2025-08-09 17:43:18.297 [info] Uploaded file index.ts modelVersion=3 in 117.58232799987309ms
+2025-08-09 17:43:25.667 [info] Uploaded file tsconfig.json modelVersion=2 in 114.30794500000775ms
+2025-08-09 17:43:25.668 [info] Uploaded file tsconfig.json modelVersion=2 in 113.8925220000092ms
+2025-08-09 17:43:25.707 [info] Uploaded file tsconfig.json modelVersion=2 in 112.19223199994303ms
+2025-08-09 17:43:25.708 [info] Uploaded file tsconfig.json modelVersion=2 in 114.18076499993913ms
+2025-08-09 17:46:58.460 [info] Uploaded file .gitignore modelVersion=2 in 349.09439800004475ms
+2025-08-09 17:46:58.461 [info] Uploaded file .gitignore modelVersion=2 in 350.2197499999311ms
+2025-08-09 17:46:58.462 [info] Uploaded file .gitignore modelVersion=2 in 373.9094369998202ms
+2025-08-09 17:46:58.524 [info] Uploaded file .gitignore modelVersion=2 in 416.81251099985093ms
+2025-08-09 17:47:09.510 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 115.05638299998827ms
+2025-08-09 17:47:09.511 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 113.52107100002468ms
+2025-08-09 17:47:09.513 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 116.02030500001274ms
+2025-08-09 17:47:09.527 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 117.05866399989463ms
+2025-08-09 17:47:09.527 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 118.66126399999484ms
+2025-08-09 17:47:51.640 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 135.79738700017333ms
+2025-08-09 17:47:51.641 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 134.4997579997871ms
+2025-08-09 17:47:51.643 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 136.9800690000411ms
+2025-08-09 17:47:51.648 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 112.91717600007541ms
+2025-08-09 17:47:51.649 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 115.79441899992526ms
+2025-08-09 17:48:22.662 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=3 in 116.83823799993843ms
+2025-08-09 17:48:22.663 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=3 in 116.60766199999489ms
+2025-08-09 17:48:22.665 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=3 in 120.48860400007106ms
+2025-08-09 17:48:22.694 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=3 in 116.37770000007004ms
+2025-08-09 17:48:22.696 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=3 in 117.31021699984558ms
+2025-08-09 17:48:43.333 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=3 in 118.4204899999313ms
+2025-08-09 17:48:43.335 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=3 in 119.52501099999063ms
+2025-08-09 17:48:43.338 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=3 in 120.8032190001104ms
+2025-08-09 17:48:43.406 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=3 in 118.23225900018588ms
+2025-08-09 17:48:43.409 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=3 in 118.21760400012136ms
+2025-08-09 17:49:05.139 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=3 in 114.87393599981442ms
+2025-08-09 17:49:05.140 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=3 in 112.79277699999511ms
+2025-08-09 17:49:05.140 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=3 in 113.85689100017771ms
+2025-08-09 17:49:05.196 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=3 in 115.8568990000058ms
+2025-08-09 17:49:05.209 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=3 in 117.09938899986446ms
+2025-08-09 17:49:23.335 [info] Uploaded file app/plant/[id].tsx modelVersion=3 in 123.07747799996287ms
+2025-08-09 17:49:23.335 [info] Uploaded file app/plant/[id].tsx modelVersion=3 in 120.721744999988ms
+2025-08-09 17:49:23.336 [info] Uploaded file app/plant/[id].tsx modelVersion=3 in 122.943458000198ms
+2025-08-09 17:49:23.355 [info] Uploaded file app/plant/[id].tsx modelVersion=3 in 113.78704899991862ms
+2025-08-09 17:49:23.356 [info] Uploaded file app/plant/[id].tsx modelVersion=3 in 115.77675799978897ms
+2025-08-09 17:49:28.879 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:49:29.000 [info] Fetched fsConfig in 120.60543800005689ms
+2025-08-09 17:49:29.000 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:49:29.000 [info] File sync enabled status: true
+2025-08-09 17:49:29.000 [info] Starting sync of visible tabs
+2025-08-09 17:49:29.000 [info] Synced all visible tabs in 0.10404299991205335ms
+2025-08-09 17:49:56.268 [info] Uploaded file app/plant/edit.tsx modelVersion=3 in 122.92346900003031ms
+2025-08-09 17:49:56.268 [info] Uploaded file app/plant/edit.tsx modelVersion=3 in 119.76732199988328ms
+2025-08-09 17:49:56.269 [info] Uploaded file app/plant/edit.tsx modelVersion=3 in 117.59199500014074ms
+2025-08-09 17:49:56.313 [info] Uploaded file app/plant/edit.tsx modelVersion=3 in 118.4363589999266ms
+2025-08-09 17:49:56.313 [info] Uploaded file app/plant/edit.tsx modelVersion=3 in 117.51325899991207ms
+2025-08-09 17:50:14.485 [info] Uploaded file store/plants.ts modelVersion=3 in 115.4895049999468ms
+2025-08-09 17:50:14.486 [info] Uploaded file store/plants.ts modelVersion=3 in 114.97392100002617ms
+2025-08-09 17:50:14.486 [info] Uploaded file store/plants.ts modelVersion=3 in 119.06575799989514ms
+2025-08-09 17:50:14.526 [info] Uploaded file store/plants.ts modelVersion=3 in 120.05238800006919ms
+2025-08-09 17:50:14.531 [info] Uploaded file store/plants.ts modelVersion=3 in 115.25249500013888ms
+2025-08-09 17:50:20.665 [info] Uploaded file store/settings.ts modelVersion=3 in 118.06216299999505ms
+2025-08-09 17:50:20.666 [info] Uploaded file store/settings.ts modelVersion=3 in 117.71893399977125ms
+2025-08-09 17:50:20.667 [info] Uploaded file store/settings.ts modelVersion=3 in 117.62680100020953ms
+2025-08-09 17:50:20.681 [info] Uploaded file store/settings.ts modelVersion=3 in 113.1062479999382ms
+2025-08-09 17:50:20.685 [info] Uploaded file store/settings.ts modelVersion=3 in 111.75438200007193ms
+2025-08-09 17:50:31.647 [info] Uploaded file db/connection.ts modelVersion=3 in 113.96406500018202ms
+2025-08-09 17:50:31.652 [info] Uploaded file db/connection.ts modelVersion=3 in 121.10098099987954ms
+2025-08-09 17:50:31.661 [info] Uploaded file db/connection.ts modelVersion=3 in 132.31954900012352ms
+2025-08-09 17:50:31.709 [info] Uploaded file db/connection.ts modelVersion=3 in 110.88891900004819ms
+2025-08-09 17:50:31.730 [info] Uploaded file db/connection.ts modelVersion=3 in 115.26666999980807ms
+2025-08-09 17:50:48.544 [info] Uploaded file lib/hydro.ts modelVersion=3 in 118.73826699983329ms
+2025-08-09 17:50:48.544 [info] Uploaded file lib/hydro.ts modelVersion=3 in 116.55064500006847ms
+2025-08-09 17:50:48.544 [info] Uploaded file lib/hydro.ts modelVersion=3 in 117.87154700001702ms
+2025-08-09 17:50:48.571 [info] Uploaded file lib/hydro.ts modelVersion=3 in 113.66595300007612ms
+2025-08-09 17:50:48.572 [info] Uploaded file lib/hydro.ts modelVersion=3 in 116.42440899997018ms
+2025-08-09 17:51:02.305 [info] Uploaded file lib/notifications.ts modelVersion=3 in 113.87799399998039ms
+2025-08-09 17:51:02.306 [info] Uploaded file lib/notifications.ts modelVersion=3 in 116.50493400008418ms
+2025-08-09 17:51:02.306 [info] Uploaded file lib/notifications.ts modelVersion=3 in 116.1806739999447ms
+2025-08-09 17:51:02.335 [info] Uploaded file lib/notifications.ts modelVersion=3 in 114.67331199999899ms
+2025-08-09 17:51:02.336 [info] Uploaded file lib/notifications.ts modelVersion=3 in 116.48176000011154ms
+2025-08-09 17:51:33.631 [info] Uploaded file store/fertilizers.ts modelVersion=3 in 120.31868400005624ms
+2025-08-09 17:51:33.632 [info] Uploaded file store/fertilizers.ts modelVersion=3 in 118.02758900006302ms
+2025-08-09 17:51:33.640 [info] Uploaded file store/fertilizers.ts modelVersion=3 in 130.58617000002414ms
+2025-08-09 17:51:33.672 [info] Uploaded file store/fertilizers.ts modelVersion=3 in 118.51416600006633ms
+2025-08-09 17:51:33.678 [info] Uploaded file store/fertilizers.ts modelVersion=3 in 115.63409000006504ms
+2025-08-09 17:55:04.014 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=4 in 362.58004799997434ms
+2025-08-09 17:55:04.067 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=4 in 395.28619699995033ms
+2025-08-09 17:55:04.068 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=6 in 322.38707799999975ms
+2025-08-09 17:55:04.068 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=6 in 387.34888199996203ms
+2025-08-09 17:55:04.069 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=6 in 322.70808000001125ms
+2025-08-09 17:55:04.070 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=6 in 372.8880549999885ms
+2025-08-09 17:55:10.640 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=4 in 110.85596199985594ms
+2025-08-09 17:55:10.640 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=4 in 112.65239100018516ms
+2025-08-09 17:55:10.663 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=6 in 114.84517899993807ms
+2025-08-09 17:55:10.698 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=6 in 114.50331999990158ms
+2025-08-09 17:55:10.750 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=6 in 115.7749949998688ms
+2025-08-09 17:55:10.755 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=6 in 117.09990000003017ms
+2025-08-09 17:55:15.504 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=4 in 112.45699099986814ms
+2025-08-09 17:55:15.504 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=4 in 110.91529399994761ms
+2025-08-09 17:55:15.522 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=6 in 112.81283700000495ms
+2025-08-09 17:55:15.536 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=6 in 112.25745099992491ms
+2025-08-09 17:55:15.583 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=6 in 114.25333600002341ms
+2025-08-09 17:55:15.587 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=6 in 111.37372899986804ms
+2025-08-09 17:55:27.149 [info] Uploaded file app/plant/[id].tsx modelVersion=4 in 113.77811999991536ms
+2025-08-09 17:55:27.156 [info] Uploaded file app/plant/[id].tsx modelVersion=4 in 117.2362130000256ms
+2025-08-09 17:55:27.167 [info] Uploaded file app/plant/[id].tsx modelVersion=6 in 115.12980900006369ms
+2025-08-09 17:55:27.185 [info] Uploaded file app/plant/[id].tsx modelVersion=6 in 114.58434700011276ms
+2025-08-09 17:55:27.246 [info] Uploaded file app/plant/[id].tsx modelVersion=6 in 117.51931100012735ms
+2025-08-09 17:55:27.267 [info] Uploaded file app/plant/[id].tsx modelVersion=6 in 123.49202600005083ms
+2025-08-09 17:55:32.552 [info] Uploaded file app/plant/edit.tsx modelVersion=4 in 127.70015799999237ms
+2025-08-09 17:55:32.558 [info] Uploaded file app/plant/edit.tsx modelVersion=4 in 132.0079310000874ms
+2025-08-09 17:55:32.570 [info] Uploaded file app/plant/edit.tsx modelVersion=6 in 114.89698099996895ms
+2025-08-09 17:55:32.575 [info] Uploaded file app/plant/edit.tsx modelVersion=6 in 116.22172300005332ms
+2025-08-09 17:55:32.640 [info] Uploaded file app/plant/edit.tsx modelVersion=6 in 146.10977900004946ms
+2025-08-09 17:55:32.641 [info] Uploaded file app/plant/edit.tsx modelVersion=6 in 149.512408999959ms
+2025-08-09 17:55:40.778 [info] Uploaded file store/plants.ts modelVersion=4 in 110.79526400007308ms
+2025-08-09 17:55:40.778 [info] Uploaded file store/plants.ts modelVersion=4 in 113.10470000002533ms
+2025-08-09 17:55:40.798 [info] Uploaded file store/plants.ts modelVersion=6 in 115.12364700017497ms
+2025-08-09 17:55:40.801 [info] Uploaded file store/plants.ts modelVersion=6 in 114.40827599982731ms
+2025-08-09 17:55:40.841 [info] Uploaded file store/plants.ts modelVersion=6 in 137.00742199993692ms
+2025-08-09 17:55:40.861 [info] Uploaded file store/plants.ts modelVersion=6 in 146.54560900013894ms
+2025-08-09 17:55:47.285 [info] Uploaded file store/fertilizers.ts modelVersion=4 in 110.87370499991812ms
+2025-08-09 17:55:47.287 [info] Uploaded file store/fertilizers.ts modelVersion=4 in 114.67378899990581ms
+2025-08-09 17:55:47.322 [info] Uploaded file store/fertilizers.ts modelVersion=6 in 116.10488400002941ms
+2025-08-09 17:55:47.330 [info] Uploaded file store/fertilizers.ts modelVersion=6 in 116.43465199996717ms
+2025-08-09 17:55:47.384 [info] Uploaded file store/fertilizers.ts modelVersion=6 in 118.56411999999546ms
+2025-08-09 17:55:47.655 [info] Synced file store/fertilizers.ts modelVersion=6 in 117.16430499986745ms
+2025-08-09 17:55:52.313 [info] Uploaded file lib/hydro.ts modelVersion=4 in 112.23084900015965ms
+2025-08-09 17:55:52.331 [info] Uploaded file lib/hydro.ts modelVersion=4 in 110.77387899998575ms
+2025-08-09 17:55:52.383 [info] Uploaded file lib/hydro.ts modelVersion=6 in 114.23551599984057ms
+2025-08-09 17:55:52.395 [info] Uploaded file lib/hydro.ts modelVersion=6 in 115.69513999996707ms
+2025-08-09 17:55:52.419 [info] Uploaded file lib/hydro.ts modelVersion=6 in 114.67874100012705ms
+2025-08-09 17:55:52.420 [info] Uploaded file lib/hydro.ts modelVersion=6 in 112.52344699995592ms
+2025-08-09 17:56:02.699 [info] Uploaded file lib/notifications.ts modelVersion=4 in 112.9630350000225ms
+2025-08-09 17:56:02.700 [info] Uploaded file lib/notifications.ts modelVersion=4 in 112.49330900004134ms
+2025-08-09 17:56:02.719 [info] Uploaded file lib/notifications.ts modelVersion=6 in 115.38667999999598ms
+2025-08-09 17:56:02.721 [info] Uploaded file lib/notifications.ts modelVersion=6 in 112.0509210000746ms
+2025-08-09 17:56:02.780 [info] Uploaded file lib/notifications.ts modelVersion=6 in 113.20686900010332ms
+2025-08-09 17:56:02.786 [info] Uploaded file lib/notifications.ts modelVersion=6 in 113.23761199996807ms
+2025-08-09 17:57:23.151 [info] Uploaded file package.json modelVersion=3 in 362.59113199985586ms
+2025-08-09 20:38:51.371 [info] Uploaded file tsconfig.json modelVersion=2 in 443.7418310008943ms
+2025-08-09 20:38:51.372 [info] Uploaded file index.ts modelVersion=3 in 477.4996969997883ms
+2025-08-09 20:38:51.373 [info] Uploaded file app/(tabs)/settings.tsx modelVersion=6 in 442.07132899947464ms
+2025-08-09 20:38:51.373 [info] Uploaded file app/(tabs)/plants.tsx modelVersion=6 in 443.25188400037587ms
+2025-08-09 20:38:51.374 [info] Uploaded file lib/notifications.ts modelVersion=6 in 438.0187469981611ms
+2025-08-09 20:38:51.374 [info] Uploaded file App.tsx modelVersion=3 in 453.7715670000762ms
+2025-08-09 20:38:51.375 [info] Uploaded file app/(tabs)/index.tsx modelVersion=3 in 446.7551000006497ms
+2025-08-09 20:38:51.375 [info] Uploaded file .gitignore modelVersion=2 in 446.57529699988663ms
+2025-08-09 20:38:51.376 [info] Uploaded file store/settings.ts modelVersion=3 in 442.06351100094616ms
+2025-08-09 20:38:51.451 [info] Uploaded file app/plant/edit.tsx modelVersion=6 in 519.3635970000178ms
+2025-08-09 20:38:51.452 [info] Uploaded file store/plants.ts modelVersion=6 in 517.5683460012078ms
+2025-08-09 20:38:51.452 [info] Uploaded file lib/hydro.ts modelVersion=6 in 517.4499819986522ms
+2025-08-09 20:38:51.453 [info] Uploaded file app/(tabs)/hydro.tsx modelVersion=6 in 521.2570740003139ms
+2025-08-09 20:38:51.453 [info] Uploaded file app.json modelVersion=2 in 530.7797720003873ms
+2025-08-09 20:38:51.453 [info] Uploaded file package.json modelVersion=3 in 531.913424000144ms
+2025-08-09 20:38:51.454 [info] Uploaded file app/(tabs)/_layout.tsx modelVersion=3 in 524.2157869990915ms
+2025-08-09 20:38:51.454 [info] Uploaded file app/plant/[id].tsx modelVersion=6 in 521.2678439989686ms
+2025-08-09 20:38:51.454 [info] Uploaded file db/connection.ts modelVersion=3 in 520.9750849995762ms
+2025-08-09 20:38:51.454 [info] Uploaded file store/fertilizers.ts modelVersion=6 in 516.7194410003722ms
+2025-08-09 20:40:04.240 [warning] Failed to sync changes for package.json, version=4, retrying (attempt 1) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "9de845aec36abf2dd121256c4e9260893e7fb62888e052c802a9bd1c"
+2025-08-09 20:40:04.381 [warning] Failed to sync changes for package.json, version=4, retrying (attempt 2) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "9de845aec36abf2dd121256c4e9260893e7fb62888e052c802a9bd1c"
+2025-08-09 20:40:04.540 [warning] Failed to sync changes for package.json, version=4, retrying (attempt 3) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "9de845aec36abf2dd121256c4e9260893e7fb62888e052c802a9bd1c"
+2025-08-09 20:40:04.540 [error] Failed to sync changes for package.json, version=4, attempting full file sync [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "9de845aec36abf2dd121256c4e9260893e7fb62888e052c802a9bd1c"
+2025-08-09 20:40:04.662 [info] Uploaded file package.json modelVersion=4 in 121.60943900048733ms
+2025-08-09 20:40:10.603 [info] Uploaded file babel.config.js modelVersion=3 in 121.21595999971032ms
+2025-08-09 20:40:10.605 [info] Uploaded file babel.config.js modelVersion=3 in 120.07726900093257ms
+2025-08-09 20:40:10.606 [info] Uploaded file babel.config.js modelVersion=3 in 118.77113200165331ms
+2025-08-09 20:40:10.705 [info] Uploaded file babel.config.js modelVersion=3 in 134.61811999976635ms
+2025-08-09 20:40:10.707 [info] Uploaded file babel.config.js modelVersion=3 in 116.03068999946117ms
+2025-08-09 20:40:11.597 [info] Uploaded file app/_layout.tsx modelVersion=3 in 118.51288899965584ms
+2025-08-09 20:40:11.599 [info] Uploaded file app/_layout.tsx modelVersion=3 in 117.66905199922621ms
+2025-08-09 20:40:11.600 [info] Uploaded file app/_layout.tsx modelVersion=3 in 123.74173000082374ms
+2025-08-09 20:40:11.695 [info] Uploaded file app/_layout.tsx modelVersion=3 in 124.84108999930322ms
+2025-08-09 20:40:11.710 [info] Uploaded file app/_layout.tsx modelVersion=3 in 121.63323000073433ms
+2025-08-09 20:40:12.526 [info] Uploaded file app.json modelVersion=3 in 115.14400799944997ms
+2025-08-09 20:40:12.548 [info] Uploaded file app.json modelVersion=3 in 115.88163300044835ms
+2025-08-09 20:40:12.892 [info] Synced file app.json modelVersion=4 in 114.23159299977124ms
+2025-08-09 20:40:13.160 [info] Synced file app.json modelVersion=4 in 113.9979240000248ms
+2025-08-09 20:40:23.523 [info] Uploaded file App.tsx modelVersion=4 in 118.23754700087011ms
+2025-08-09 20:40:23.524 [info] Uploaded file App.tsx modelVersion=4 in 124.72967199981213ms
+2025-08-09 20:40:23.611 [info] Uploaded file App.tsx modelVersion=6 in 112.94112499989569ms
+2025-08-09 20:40:23.615 [info] Uploaded file App.tsx modelVersion=6 in 121.17866099998355ms
+2025-08-09 20:48:49.194 [info] Uploaded file app/_layout.tsx modelVersion=6 in 264.62330999970436ms
+2025-08-09 20:48:49.195 [info] Uploaded file app/_layout.tsx modelVersion=6 in 293.22018899954855ms
+2025-08-09 20:48:49.195 [info] Uploaded file app/_layout.tsx modelVersion=6 in 327.96314299851656ms
+2025-08-09 20:48:49.197 [info] Uploaded file app/_layout.tsx modelVersion=6 in 342.69150299951434ms
+2025-08-09 20:48:49.200 [info] Uploaded file app/_layout.tsx modelVersion=4 in 377.1421159990132ms
+2025-08-09 20:48:49.216 [info] Uploaded file app/_layout.tsx modelVersion=4 in 367.9863999988884ms
+2025-08-09 20:48:56.657 [info] Uploaded file lib/notifications-setup.ts modelVersion=3 in 115.51966099999845ms
+2025-08-09 20:48:56.658 [info] Uploaded file lib/notifications-setup.ts modelVersion=3 in 114.62923900038004ms
+2025-08-09 20:48:56.658 [info] Uploaded file lib/notifications-setup.ts modelVersion=3 in 119.32577499933541ms
+2025-08-09 20:48:56.716 [info] Uploaded file lib/notifications-setup.ts modelVersion=3 in 112.6861899998039ms
+2025-08-09 20:48:56.738 [info] Uploaded file lib/notifications-setup.ts modelVersion=3 in 126.17421699874103ms
+2025-08-09 20:56:13.040 [info] Uploaded file app/_layout.tsx modelVersion=7 in 344.82994200102985ms
+2025-08-09 20:56:13.041 [info] Uploaded file app/_layout.tsx modelVersion=9 in 215.6489230003208ms
+2025-08-09 20:56:13.088 [info] Uploaded file app/_layout.tsx modelVersion=9 in 367.7822569999844ms
+2025-08-09 20:56:13.089 [info] Uploaded file app/_layout.tsx modelVersion=9 in 266.720148999244ms
+2025-08-09 20:56:13.089 [info] Uploaded file app/_layout.tsx modelVersion=9 in 338.90197299979627ms
+2025-08-09 20:56:13.090 [info] Uploaded file app/_layout.tsx modelVersion=7 in 441.30450600013137ms
+2025-08-09 21:00:41.122 [info] Uploaded file package.json modelVersion=5 in 353.9032760001719ms
+2025-08-09 21:01:32.779 [info] Uploaded file app/_layout.tsx modelVersion=10 in 127.95709499903023ms
+2025-08-09 21:01:32.783 [info] Uploaded file app/_layout.tsx modelVersion=10 in 126.82941100001335ms
+2025-08-09 21:01:32.793 [info] Uploaded file app/_layout.tsx modelVersion=12 in 113.5627139993012ms
+2025-08-09 21:01:32.819 [info] Uploaded file app/_layout.tsx modelVersion=12 in 113.95681699924171ms
+2025-08-09 21:01:38.466 [info] Uploaded file babel.config.js modelVersion=4 in 111.52759299986064ms
+2025-08-09 21:01:38.474 [info] Uploaded file babel.config.js modelVersion=4 in 113.56850700080395ms
+2025-08-09 21:01:38.500 [info] Uploaded file babel.config.js modelVersion=6 in 112.73591599985957ms
+2025-08-09 21:01:38.516 [info] Uploaded file babel.config.js modelVersion=6 in 110.76097500137985ms
+2025-08-09 21:01:38.548 [info] Uploaded file babel.config.js modelVersion=6 in 112.35424800030887ms
+2025-08-09 21:01:38.560 [info] Uploaded file babel.config.js modelVersion=6 in 112.55372899957001ms

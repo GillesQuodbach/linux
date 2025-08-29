@@ -1,0 +1,35 @@
+2025-08-09 16:54:44.679 [error] Failed to check if file sync is enabled for user {}
+2025-08-09 16:54:44.679 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 16:54:44.679 [error] Failed to fetch fsConfig File sync is disabled
+2025-08-09 16:54:44.679 [info] [registerEventListeners] Registering event listeners
+2025-08-09 16:54:46.199 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 16:54:46.401 [info] Fetched fsConfig in 200.38606299999992ms
+2025-08-09 16:54:46.401 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 16:54:47.198 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 16:54:47.554 [info] Fetched fsConfig in 355.6739149999994ms
+2025-08-09 16:54:47.554 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 16:54:47.554 [info] File sync enabled status: true
+2025-08-09 16:54:47.554 [info] Starting sync of visible tabs
+2025-08-09 16:54:47.554 [info] Synced all visible tabs in 0.11144199999944249ms
+2025-08-09 16:54:48.082 [info] Starting sync of visible tabs
+2025-08-09 16:54:48.082 [info] Synced all visible tabs in 0.1339799999987008ms
+2025-08-09 16:54:48.199 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 16:54:48.318 [info] Fetched fsConfig in 118.51731800000016ms
+2025-08-09 16:54:48.318 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:09:39.718 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-08-09 17:09:39.834 [info] Fetched fsConfig in 115.99224500008859ms
+2025-08-09 17:09:39.834 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-08-09 17:09:39.834 [info] File sync enabled status: true
+2025-08-09 17:09:39.834 [info] Starting sync of visible tabs
+2025-08-09 17:09:39.834 [info] Synced all visible tabs in 0.021788999903947115ms
+2025-08-09 17:09:51.845 [info] Uploaded file app/src/state/authStore.ts modelVersion=5 in 132.4037730001146ms
+2025-08-09 17:09:51.846 [info] Uploaded file app/src/state/authStore.ts modelVersion=5 in 131.41478300001472ms
+2025-08-09 17:09:51.864 [info] Uploaded file app/src/state/authStore.ts modelVersion=7 in 114.22742500004824ms
+2025-08-09 17:09:51.865 [info] Uploaded file app/src/state/authStore.ts modelVersion=7 in 116.47708500002045ms
+2025-08-09 17:09:52.215 [info] Synced file app/src/state/authStore.ts modelVersion=7 in 116.44440899998881ms
+2025-08-09 17:10:02.415 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=5 in 113.91052999999374ms
+2025-08-09 17:10:02.416 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=5 in 113.1110350000672ms
+2025-08-09 17:10:02.447 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=7 in 116.1705109999748ms
+2025-08-09 17:10:02.448 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=7 in 116.12464199995156ms
+2025-08-09 17:10:02.495 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=7 in 122.5948469999712ms
+2025-08-09 17:10:02.495 [info] Uploaded file app/src/screens/auth/LoginScreen.tsx modelVersion=7 in 124.4082219999982ms

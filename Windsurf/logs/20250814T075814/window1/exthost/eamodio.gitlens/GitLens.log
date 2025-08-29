@@ -1,0 +1,13 @@
+2025-08-14 11:34:20.228 [info] GitLens v17.3.4 activating in Windsurf (1.99.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7|6ffc32ff-9064-4921-90ca-148ee58d84ec1755163256317)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-08-14 11:34:20.729 [info] [2025-08-14 09:34:20.444] ClientRequest.<anonymous>
+FetchError: request to https://github-new/codebash-dev/grow-app.git failed, reason: getaddrinfo ENOTFOUND github-new
+[2025-08-14 09:34:20.444] ClientRequest.<anonymous>
+FetchError: request to https://github-new/codebash-dev/grow-app.git failed, reason: getaddrinfo ENOTFOUND github-new
+
+2025-08-14 11:36:48.075 [info] [2025-08-14 09:36:47.574] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 1dfe1af79d2f20dac25897641f8ef830d619949b^ -- src/components/PlantCard.js): fatal: bad revision '1dfe1af79d2f20dac25897641f8ef830d619949b^'
+
+
+2025-08-14 11:36:49.194 [info] [2025-08-14 09:36:49.065] [GIT   *1539ms] [/home/codebash/CascadeProjects/PlantApp] git log --format=%x1E%H%x1D%aN%x1D%aE%x1D%at%x1D%cN%x1D%cE%x1D%ct%x1D%P%x1D%D%x1D%B%x1D --numstat --summary -M --use-mailmap -m --no-min-parents -n1 1dfe1af79d2f20dac25897641f8ef830d619949b -- [*1539ms] (slow)
+

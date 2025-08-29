@@ -1,0 +1,5 @@
+2025-08-17 14:23:00.056 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"45d0c2395bf2b2840c9e93a24cb159c0","uri":{"$mid":1,"fsPath":"/home/codebash/dev/test_go","external":"file:///home/codebash/dev/test_go","path":"/home/codebash/dev/test_go","scheme":"file"}}}
+2025-08-17 14:23:00.056 [info] update#setState idle
+2025-08-17 14:23:30.004 [info] update#setState checking for updates
+2025-08-17 14:23:30.131 [info] update#setState available for download
+2025-08-17 21:55:44.522 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

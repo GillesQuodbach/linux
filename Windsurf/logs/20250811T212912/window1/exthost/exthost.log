@@ -1,0 +1,186 @@
+2025-08-11 21:29:14.092 [info] Extension host with pid 56838 started
+2025-08-11 21:29:14.181 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-11 21:29:14.202 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:windsurf.importVSCodeRecentWorkspaces', root cause: codeium.windsurf
+2025-08-11 21:29:14.204 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-08-11 21:29:14.392 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:windsurf.importVSCodeRecentWorkspaces', root cause: codeium.windsurf
+2025-08-11 21:29:14.463 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-08-11 21:29:14.855 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: 'onCommand:windsurf.importVSCodeRecentWorkspaces'
+2025-08-11 21:29:18.437 [info] Eager extensions activated
+2025-08-11 21:29:18.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-11 21:29:18.500 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-11 21:29:18.571 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-08-11 21:29:19.060 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-08-11 21:29:19.090 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-08-11 21:29:19.335 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-08-11 21:29:19.368 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-08-11 21:29:19.735 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-08-11 21:35:06.073 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/GroupDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 21:35:15.876 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 21:35:34.841 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 21:36:18.309 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 21:39:39.025 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/HomeScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 21:40:10.726 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/GroupsScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 22:18:30.699 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 22:20:15.999 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/GroupDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 22:20:51.319 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/GroupDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 22:22:31.973 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/GroupDetailScreen.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215159)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4215555)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4222206)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3805521
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4220542)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4208405)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2308542)
+2025-08-11 22:35:45.106 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-11 22:35:45.160 [error] Canceled: Canceled
+	at new VH (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113205)
+	at cD.U (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117816)
+	at s.<computed>.r.charCodeAt.s.<computed> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115310)
+	at DI.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43847)
+	at DI.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43351)
+	at n.registerCommand.description (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:42681)
+	at DI.h (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:44367)
+	at DI.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43444)
+	at DI.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43351)
+	at Object.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:42069)
+	at dE.L [as value] (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:514222)
+	at O.B (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+	at Object.g [as dispose] (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:536862)
+	at /usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:543180
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:543166)
+	at uS.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9249)
+	at uS.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9345)
+	at uS.<anonymous> (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:516706)
+	at uS.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9345)
+	at xi (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:16196
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at Cse.eb (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13123)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11078
+	at Array.map (<anonymous>)
+	at Cse.$ (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11066)
+	at Cse.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11309)
+	at F$.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at Os (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:198:5711)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:198:2251)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-08-11 22:35:45.161 [error] Canceled: Canceled
+	at new VH (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113205)
+	at cD.U (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117816)
+	at s.<computed>.r.charCodeAt.s.<computed> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115310)
+	at DI.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43847)
+	at DI.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43351)
+	at n.registerCommand.description (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:42681)
+	at DI.h (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:44367)
+	at DI.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43444)
+	at DI.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:43351)
+	at Object.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:42069)
+	at set hasGitHubRepositories (/usr/share/windsurf/resources/app/extensions/github/dist/extension.js:2:217807)
+	at /usr/share/windsurf/resources/app/extensions/github/dist/extension.js:2:218766
+	at dE.value (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:634408)
+	at O.B (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+	at Object.g [as dispose] (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:536862)
+	at /usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:543180
+	at Array.forEach (<anonymous>)
+	at b.dispose (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:543166)
+	at uS.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9249)
+	at uS.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9345)
+	at uS.<anonymous> (/usr/share/windsurf/resources/app/extensions/git/dist/main.js:2:516706)
+	at uS.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9345)
+	at xi (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:16196
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at Cse.eb (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13123)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11078
+	at Array.map (<anonymous>)
+	at Cse.$ (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11066)
+	at Cse.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11309)
+	at F$.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at Os (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:198:5711)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:198:2251)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-08-11 22:35:45.168 [info] Extension host with pid 56838 exiting with code 0

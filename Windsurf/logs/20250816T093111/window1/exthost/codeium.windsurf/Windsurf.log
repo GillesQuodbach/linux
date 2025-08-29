@@ -1,0 +1,25 @@
+2025-08-16 09:31:16.587 [info] 2025/08/16 09:31:16 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-08-16 09:31:16.790 [info] I0816 09:31:16.790396 17331 main.go:605] Setting GOMAXPROCS to 4
+2025-08-16 09:31:16.791 [info] I0816 09:31:16.791058 17331 main.go:824] Starting language server process with pid 17331
+2025-08-16 09:31:16.792 [info] I0816 09:31:16.792679 17331 server.go:301] Language server will attempt to listen on host 127.0.0.1
+2025-08-16 09:31:16.792 [info] I0816 09:31:16.792883 17331 server.go:308] Language server listening on random port at 46567
+2025-08-16 09:31:17.230 [info] I0816 09:31:17.225404 17331 server.go:441] Created extension server client at port 39003
+2025-08-16 09:31:17.267 [info] I0816 09:31:17.267709 17331 server.go:1010] Local search is enabled, will index local files.
+2025-08-16 09:31:17.267 [info] I0816 09:31:17.267741 17331 server.go:1014] Using 2 indexer workers
+2025-08-16 09:31:17.703 [info] (Windsurf) 2025-08-16 09:31:17.698 [INFO]: Language server started
+2025-08-16 09:31:18.377 [info] (Windsurf) 2025-08-16 09:31:18.377 [INFO]: LS lspClient started successfully
+2025-08-16 09:31:18.766 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-16 09:40:26.703 [info] E0816 09:40:26.702964 17331 cascade_manager.go:364] Removing trajectory 2e7b1aed-7283-4d1c-a446-40600fad55bf from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-16 09:40:26.733 [info] E0816 09:40:26.733762 17331 cascade_manager.go:364] Removing trajectory 2e7b1aed-7283-4d1c-a446-40600fad55bf from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-16 09:50:14.153 [info] E0816 09:50:14.152814 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js
+2025-08-16 10:36:14.150 [info] E0816 10:36:14.149791 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/context/PlantContext.js
+2025-08-16 10:37:39.060 [info] E0816 10:37:39.053675 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+2025-08-16 10:39:16.174 [info] E0816 10:39:16.174440 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/ChartsScreen.js
+2025-08-16 10:40:40.557 [info] E0816 10:40:40.557487 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/ChartsScreen.js
+2025-08-16 11:07:40.579 [info] E0816 11:07:40.579473 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/components/GroupCard.js
+2025-08-16 11:08:50.577 [info] E0816 11:08:50.577551 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/HomeScreen.js
+2025-08-16 11:09:15.231 [info] E0816 11:09:15.231426 17331 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+2025-08-16 11:20:49.869 [info] (Windsurf) 2025-08-16 11:20:49.858 [INFO]: Shutting down all 0 managed language servers

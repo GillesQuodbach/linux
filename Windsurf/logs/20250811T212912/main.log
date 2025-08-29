@@ -1,0 +1,8 @@
+2025-08-11 21:29:12.854 [info] update#setState idle
+2025-08-11 21:29:42.829 [info] update#setState checking for updates
+2025-08-11 21:29:42.955 [info] update#setState idle
+2025-08-11 22:29:42.833 [info] update#setState checking for updates
+2025-08-11 22:29:43.242 [info] update#setState idle
+2025-08-11 22:35:45.168 [info] Extension host with pid 56838 exited with code: 0, signal: unknown.
+2025-08-11 22:35:45.576 [info] WindsurfWindowsMainManager: Window will close {"windowId":1}
+2025-08-11 22:35:45.588 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

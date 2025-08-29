@@ -1,0 +1,83 @@
+2025/08/27-15:44:06.587 1bef Reusing MANIFEST /home/codebash/.config/Windsurf/Local Storage/leveldb/MANIFEST-000001
+2025/08/27-15:44:06.598 1bef Recovering log #2809
+2025/08/27-15:44:06.599 1bef Level-0 table #2812: started
+2025/08/27-15:44:06.602 1bef Level-0 table #2812: 28195 bytes OK
+2025/08/27-15:44:06.604 1bef Delete type=0 #2809
+2025/08/27-15:44:06.605 1bef Compacting 4@0 + 1@1 files
+2025/08/27-15:44:06.609 1bef Generated table #2814@0: 3 keys, 14149 bytes
+2025/08/27-15:44:06.609 1bef Compacted 4@0 + 1@1 files => 14149 bytes
+2025/08/27-15:44:06.610 1bef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/27-15:44:06.610 1bef Delete type=2 #2810
+2025/08/27-15:44:06.610 1bef Delete type=2 #2808
+2025/08/27-15:44:06.610 1bef Delete type=2 #2812
+2025/08/27-15:44:06.610 1bef Delete type=2 #2806
+2025/08/27-15:44:06.611 1bef Delete type=2 #2804
+2025/08/27-15:46:07.179 1bf0 Level-0 table #2816: started
+2025/08/27-15:46:07.185 1bf0 Level-0 table #2816: 28905 bytes OK
+2025/08/27-15:46:07.187 1bf0 Delete type=0 #2813
+2025/08/27-15:48:07.179 1bf0 Level-0 table #2818: started
+2025/08/27-15:48:07.185 1bf0 Level-0 table #2818: 28671 bytes OK
+2025/08/27-15:48:07.186 1bf0 Delete type=0 #2815
+2025/08/27-15:50:07.180 1bf0 Level-0 table #2820: started
+2025/08/27-15:50:07.187 1bf0 Level-0 table #2820: 28952 bytes OK
+2025/08/27-15:50:07.188 1bf0 Delete type=0 #2817
+2025/08/27-15:52:07.180 1bef Level-0 table #2822: started
+2025/08/27-15:52:07.186 1bef Level-0 table #2822: 28767 bytes OK
+2025/08/27-15:52:07.188 1bef Delete type=0 #2819
+2025/08/27-15:52:07.188 1bef Compacting 4@0 + 1@1 files
+2025/08/27-15:52:07.189 1bef Generated table #2823@0: 3 keys, 14288 bytes
+2025/08/27-15:52:07.189 1bef Compacted 4@0 + 1@1 files => 14288 bytes
+2025/08/27-15:52:07.191 1bef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/27-15:52:07.191 1bef Delete type=2 #2820
+2025/08/27-15:52:07.191 1bef Delete type=2 #2814
+2025/08/27-15:52:07.191 1bef Delete type=2 #2822
+2025/08/27-15:52:07.191 1bef Delete type=2 #2818
+2025/08/27-15:52:07.191 1bef Delete type=2 #2816
+2025/08/27-15:54:07.179 1bf0 Level-0 table #2825: started
+2025/08/27-15:54:07.186 1bf0 Level-0 table #2825: 28730 bytes OK
+2025/08/27-15:54:07.188 1bf0 Delete type=0 #2821
+2025/08/27-15:56:07.180 1bf0 Level-0 table #2827: started
+2025/08/27-15:56:07.187 1bf0 Level-0 table #2827: 28957 bytes OK
+2025/08/27-15:56:07.189 1bf0 Delete type=0 #2824
+2025/08/27-15:58:07.179 1bf0 Level-0 table #2829: started
+2025/08/27-15:58:07.185 1bf0 Level-0 table #2829: 28950 bytes OK
+2025/08/27-15:58:07.187 1bf0 Delete type=0 #2826
+2025/08/27-16:00:07.179 1bf0 Level-0 table #2831: started
+2025/08/27-16:00:07.186 1bf0 Level-0 table #2831: 28894 bytes OK
+2025/08/27-16:00:07.188 1bf0 Delete type=0 #2828
+2025/08/27-16:00:07.188 1bf0 Compacting 4@0 + 1@1 files
+2025/08/27-16:00:07.190 1bf0 Generated table #2832@0: 3 keys, 14573 bytes
+2025/08/27-16:00:07.190 1bf0 Compacted 4@0 + 1@1 files => 14573 bytes
+2025/08/27-16:00:07.192 1bf0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/27-16:00:07.192 1bf0 Delete type=2 #2829
+2025/08/27-16:00:07.192 1bf0 Delete type=2 #2831
+2025/08/27-16:00:07.192 1bf0 Delete type=2 #2823
+2025/08/27-16:00:07.192 1bf0 Delete type=2 #2825
+2025/08/27-16:00:07.192 1bf0 Delete type=2 #2827
+2025/08/27-16:02:07.179 1bf0 Level-0 table #2834: started
+2025/08/27-16:02:07.186 1bf0 Level-0 table #2834: 28838 bytes OK
+2025/08/27-16:02:07.187 1bf0 Delete type=0 #2830
+2025/08/27-16:04:07.178 1bf0 Level-0 table #2836: started
+2025/08/27-16:04:07.195 1bf0 Level-0 table #2836: 28956 bytes OK
+2025/08/27-16:04:07.196 1bf0 Delete type=0 #2833
+2025/08/27-16:06:07.179 1bf0 Level-0 table #2838: started
+2025/08/27-16:06:07.185 1bf0 Level-0 table #2838: 28986 bytes OK
+2025/08/27-16:06:07.187 1bf0 Delete type=0 #2835
+2025/08/27-16:08:07.180 1bf0 Level-0 table #2840: started
+2025/08/27-16:08:07.188 1bf0 Level-0 table #2840: 28780 bytes OK
+2025/08/27-16:08:07.190 1bf0 Delete type=0 #2837
+2025/08/27-16:08:07.190 1bf0 Compacting 4@0 + 1@1 files
+2025/08/27-16:08:07.192 1bf0 Generated table #2841@0: 3 keys, 14468 bytes
+2025/08/27-16:08:07.192 1bf0 Compacted 4@0 + 1@1 files => 14468 bytes
+2025/08/27-16:08:07.194 1bf0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/27-16:08:07.194 1bf0 Delete type=2 #2836
+2025/08/27-16:08:07.194 1bf0 Delete type=2 #2838
+2025/08/27-16:08:07.194 1bf0 Delete type=2 #2840
+2025/08/27-16:08:07.194 1bf0 Delete type=2 #2832
+2025/08/27-16:08:07.194 1bf0 Delete type=2 #2834
+2025/08/27-16:10:07.180 1bf0 Level-0 table #2843: started
+2025/08/27-16:10:07.187 1bf0 Level-0 table #2843: 28830 bytes OK
+2025/08/27-16:10:07.189 1bf0 Delete type=0 #2839
+2025/08/27-16:12:07.179 1bf0 Level-0 table #2845: started
+2025/08/27-16:12:07.209 1bf0 Level-0 table #2845: 28748 bytes OK
+2025/08/27-16:12:07.251 1bf0 Delete type=0 #2842

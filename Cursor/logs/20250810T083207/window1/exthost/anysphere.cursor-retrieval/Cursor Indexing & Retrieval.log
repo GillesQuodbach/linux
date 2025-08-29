@@ -1,0 +1,59 @@
+2025-08-10 08:32:13.983 [error] Error getting repo info: Failed to execute git
+2025-08-10 08:32:13.983 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-10 08:32:13.983 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 08:32:13.983 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 08:32:13.983 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:32:13.983 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:32:13.983 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:32:13.983 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:32:14.196 [info] Using existing keys for an index
+2025-08-10 08:32:14.196 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 08:32:14.277 [info] Setting global status from status tracker: synced
+2025-08-10 08:32:14.277 [info] Doing a startup handshake.
+2025-08-10 08:32:14.753 [info] Finished computing merkle tree in 2.8004259999997885 ms.
+2025-08-10 08:32:14.753 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 08:32:14.758 [info] Computed simhash vector of length: 0
+2025-08-10 08:32:14.758 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-10 08:32:14.758 [info] Handshake start
+2025-08-10 08:32:15.115 [info] Handshake timing: 360.87883500000044, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:32:15.115 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:32:15.116 [info] Starting fast remote sync.
+2025-08-10 08:32:15.116 [info] Total num embeddable files: 0
+2025-08-10 08:32:15.117 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 08:32:15.117 [info] In the out of sync case.
+2025-08-10 08:32:15.118 [info] Waiting on semaphore to be released 1
+2025-08-10 08:32:15.318 [info] setting numJobsToGo to 0
+2025-08-10 08:32:15.332 [info] [startSync]: numJobs: 0
+2025-08-10 08:32:16.746 [info] Uploading 0 files.
+2025-08-10 08:32:16.747 [info] Total number of files to embed: 0
+2025-08-10 08:32:16.747 [info] Not aborted
+2025-08-10 08:32:16.747 [info] Starting while loop.
+2025-08-10 08:32:16.859 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 08:32:16.974 [info] Finished indexing repository.
+2025-08-10 08:32:16.974 [info] Indexing job successfully done or aborted.
+2025-08-10 08:32:30.499 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:32:30.499 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:32:30.499 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:32:30.505 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:32:30.550 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:32:30.575 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:32:30.581 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:32:30.589 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:32:31.494 [error] Error getting git status: Failed to execute git
+2025-08-10 08:32:31.495 [error] Error getting git status: Failed to execute git
+2025-08-10 08:32:36.629 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:32:36.629 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:32:36.630 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:32:36.636 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:32:36.687 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:32:36.698 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:32:36.732 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:32:36.733 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:32:37.619 [error] Error getting git status: Failed to execute git
+2025-08-10 08:32:37.620 [error] Error getting git status: Failed to execute git
+2025-08-10 08:32:39.479 [error] Error getting git status: Failed to execute git
+2025-08-10 08:32:40.852 [error] Error getting git status: Failed to execute git

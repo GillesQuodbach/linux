@@ -1,0 +1,37 @@
+2025-08-10 08:56:15.054 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 08:56:15.054 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 08:56:15.220 [warning] No repository found: /home/codebash/dev/growing-app (candidates: )
+2025-08-10 08:56:15.246 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:01:15.220 [info] doUpdate: Disposing completed index job...
+2025-08-10 09:01:15.220 [info] MultiBranchIndexJob dispose
+2025-08-10 09:01:15.220 [info] Aborting multi-branch indexing job.
+2025-08-10 09:01:15.221 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:06:15.220 [info] doUpdate: Disposing completed index job...
+2025-08-10 09:06:15.220 [info] MultiBranchIndexJob dispose
+2025-08-10 09:06:15.220 [info] Aborting multi-branch indexing job.
+2025-08-10 09:06:15.220 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:11:15.220 [info] doUpdate: Disposing completed index job...
+2025-08-10 09:11:15.220 [info] MultiBranchIndexJob dispose
+2025-08-10 09:11:15.220 [info] Aborting multi-branch indexing job.
+2025-08-10 09:11:15.221 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:16:15.221 [info] doUpdate: Disposing completed index job...
+2025-08-10 09:16:15.221 [info] MultiBranchIndexJob dispose
+2025-08-10 09:16:15.221 [info] Aborting multi-branch indexing job.
+2025-08-10 09:16:15.223 [error] Git indexing job failed: Error: Error creating embedding client: "/home/codebash/dev/growing-app" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-08-10 09:20:13.664 [info] MultiBranchIndexJob dispose
+2025-08-10 09:20:13.664 [info] Aborting multi-branch indexing job.

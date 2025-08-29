@@ -1,0 +1,2286 @@
+2025-08-17 14:23:01.355 [info] Extension host with pid 67192 started
+2025-08-17 14:23:01.355 [info] Skipping acquiring lock for /home/codebash/.config/Windsurf/User/workspaceStorage/45d0c2395bf2b2840c9e93a24cb159c0.
+2025-08-17 14:23:01.443 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-17 14:23:01.455 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-17 14:23:01.505 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-17 14:23:01.563 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-17 14:23:01.679 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-08-17 14:23:01.707 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-08-17 14:23:01.766 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-08-17 14:23:01.882 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2025-08-17 14:23:04.494 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:04.533 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.200 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.210 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.257 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.261 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.384 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.446 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-08-17 14:23:12.744 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 14:23:12.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:23:41.521 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-08-17 14:24:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:25:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:26:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:27:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:28:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:29:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:30:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:31:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:31:39.494 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-08-17 14:32:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:33:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:34:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:35:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:36:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:37:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:38:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:39:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:40:02.888 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:41:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:42:02.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:43:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:44:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:45:02.891 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:46:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:47:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:48:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:49:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:50:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:51:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:52:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:53:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:54:02.890 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:55:02.891 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:56:02.892 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:57:02.892 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:58:02.893 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 14:59:02.894 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:00:02.895 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:01:02.896 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:02:02.897 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:03:02.897 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:04:02.898 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:05:02.900 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:06:02.901 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:07:02.901 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:08:02.902 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:09:02.902 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:10:02.903 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:11:02.904 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:12:02.905 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:13:02.905 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:14:02.906 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:15:02.908 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:16:02.909 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:17:02.911 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:18:02.912 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:19:02.912 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:20:02.913 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:21:02.913 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:22:02.914 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:23:02.915 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:24:02.916 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:25:02.917 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:26:02.917 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:27:02.918 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:28:02.918 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:29:02.919 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:30:02.919 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:31:02.920 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:32:02.921 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:33:02.922 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:34:02.923 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:35:02.923 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:36:02.923 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:37:02.923 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:38:02.924 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:39:02.925 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:40:02.925 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:41:02.926 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:42:02.927 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:43:02.927 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:44:02.928 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:45:02.929 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:46:02.929 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:47:02.930 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:48:02.931 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:49:02.932 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:50:02.933 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:51:02.933 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:52:02.934 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:53:02.935 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:54:02.942 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:55:02.950 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:56:02.958 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:57:02.967 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:58:02.968 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 15:59:02.976 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:00:02.984 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:01:02.991 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:02:02.999 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:03:03.001 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:04:03.007 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:05:03.015 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:06:03.021 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:07:03.029 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:08:03.032 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:09:03.036 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:10:03.043 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:11:03.051 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:12:03.059 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:13:03.060 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:14:03.066 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:15:03.074 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:16:03.080 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:17:03.087 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:18:03.089 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:19:03.095 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:20:03.100 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:21:03.107 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:22:03.114 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:23:03.115 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:24:03.122 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:25:03.130 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:26:03.137 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:27:03.144 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:28:03.145 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:29:03.151 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:30:03.158 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:31:03.163 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:32:03.169 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:33:03.170 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:34:03.175 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:35:03.179 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:36:03.183 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:37:03.186 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:38:03.187 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:39:03.191 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:40:03.194 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:41:03.196 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:42:03.198 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:43:03.199 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:44:03.200 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:45:03.201 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:46:03.204 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:47:03.207 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:48:03.209 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:49:03.210 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:50:03.211 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:51:03.213 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:52:03.214 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:53:03.214 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:54:03.216 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:55:03.216 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:56:03.217 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:57:03.217 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:58:03.218 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 16:59:03.224 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:00:03.229 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:01:03.234 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:02:03.240 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:03:03.243 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:04:03.246 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:05:03.252 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:06:03.256 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:07:03.262 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:08:03.264 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:09:03.270 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:10:03.276 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:11:03.280 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:12:03.286 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:13:03.288 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:14:03.293 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:15:03.299 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:16:03.303 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:17:03.309 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:18:03.310 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:19:03.315 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:20:03.321 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:21:03.325 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:22:03.330 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:23:03.332 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:24:03.338 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:25:03.343 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:26:03.348 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:27:03.353 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:28:03.355 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:29:03.360 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:30:03.365 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:31:03.369 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:32:03.374 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:33:03.376 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:34:03.380 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:35:03.386 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:36:03.390 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:37:03.396 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:38:03.398 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:39:03.402 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:40:03.406 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:41:03.410 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:42:03.415 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:43:03.416 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:44:03.421 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:45:03.426 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:46:03.430 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:47:03.434 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:48:03.435 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:49:03.439 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:50:03.443 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:51:03.448 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:52:03.452 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:53:03.454 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:54:03.458 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:55:03.461 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:56:03.465 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:57:03.469 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:58:03.471 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 17:59:03.475 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:00:03.479 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:01:03.483 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:02:03.487 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:03:03.488 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:04:03.492 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:05:03.496 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:06:03.500 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:07:03.504 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:08:03.506 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:09:03.509 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:10:03.512 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:11:03.516 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:12:03.520 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:13:03.522 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:14:03.527 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:15:03.531 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:16:03.534 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:17:03.537 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:18:03.538 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:19:03.542 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:20:03.545 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:21:03.549 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:22:03.552 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:23:03.554 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:24:03.557 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:25:03.558 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:26:03.562 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:27:03.563 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:28:03.565 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:29:03.568 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:30:03.572 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:31:03.574 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:32:03.577 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:33:03.578 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:34:03.581 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:35:03.584 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:36:03.586 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:37:03.589 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:38:03.591 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:39:03.593 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:40:03.595 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:41:03.597 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:42:03.599 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:43:03.601 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:44:03.602 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:45:03.604 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:46:03.606 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:47:03.608 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:48:03.611 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:49:03.612 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:50:03.614 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:51:03.615 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:52:03.616 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:53:03.618 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:54:03.620 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:55:03.622 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:56:03.624 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:57:03.625 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:58:03.626 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 18:59:03.628 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:00:03.629 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:01:03.630 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:02:03.631 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:03:03.632 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:04:03.634 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:05:03.635 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:06:03.635 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:07:03.636 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:08:03.638 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:09:03.639 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:10:03.641 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:11:03.641 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:12:03.641 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:13:03.642 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:14:03.643 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:15:03.644 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:16:03.644 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:17:03.644 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:18:03.646 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:19:03.646 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:20:03.647 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:21:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:22:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:23:03.647 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:24:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:25:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:26:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:27:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:28:03.648 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:29:03.649 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:30:03.651 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:31:03.651 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:32:03.651 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:33:03.653 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:34:03.662 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:35:03.664 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:36:03.674 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:37:03.684 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:38:03.685 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:39:03.693 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:40:03.700 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:41:03.709 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:42:03.716 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:43:03.718 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:44:03.728 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:45:03.738 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:46:03.748 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:47:03.757 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:48:03.758 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:49:03.768 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:50:03.777 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:51:03.787 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:52:03.797 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:53:03.799 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:54:03.808 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:55:03.818 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:56:03.829 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:57:03.838 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:58:03.840 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 19:59:03.850 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:00:03.858 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:01:03.867 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:02:03.877 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:03:03.879 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:04:03.889 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:05:03.898 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:06:03.908 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:07:03.918 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:08:03.920 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:09:03.931 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:10:03.940 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:11:03.950 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:12:03.959 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:13:03.961 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:14:03.971 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:15:03.981 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:16:03.991 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:17:03.999 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:18:04.001 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:19:04.010 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:20:04.019 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:21:04.027 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:22:04.036 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:23:04.037 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:24:04.047 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:25:04.055 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:26:04.065 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:27:04.074 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:28:04.076 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:29:04.085 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:30:04.094 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:31:04.102 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:32:04.108 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:33:04.110 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:34:04.119 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:35:04.128 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:36:04.138 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:37:04.146 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:38:04.148 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:39:04.157 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:40:04.163 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:41:04.171 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:42:04.180 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:43:04.181 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:44:04.191 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:45:04.199 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:46:04.208 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:47:04.217 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:48:04.218 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:49:04.226 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:50:04.234 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:51:04.242 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:52:04.250 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:53:04.252 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:54:04.260 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:55:04.269 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:56:04.276 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:57:04.285 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:58:04.287 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 20:59:04.295 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:00:04.303 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:01:04.312 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:02:04.319 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:03:04.321 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:04:04.329 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:05:04.337 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:06:04.346 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:07:04.353 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:08:04.355 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:09:04.363 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:10:04.370 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:11:04.378 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:12:04.386 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:13:04.389 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:14:04.396 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:15:04.404 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:16:04.411 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:17:04.417 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:18:04.419 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:19:04.425 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:20:04.432 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:21:04.440 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:22:04.448 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:23:04.451 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:24:04.459 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:25:04.466 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:26:04.470 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:27:04.477 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:28:04.480 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:29:04.488 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:30:04.492 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:31:04.497 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:32:04.502 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:33:04.504 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:34:04.508 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:35:04.512 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:36:04.516 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:37:04.519 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:38:04.521 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:39:04.523 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:40:04.525 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:41:04.527 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:42:04.528 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:43:04.529 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:44:04.530 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:45:04.533 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:46:04.536 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:47:04.538 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:48:04.539 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:49:04.540 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:50:04.541 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:51:04.542 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:52:04.542 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:53:04.543 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:54:04.544 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-08-17 21:55:04.545 [error] Error: LanguageServerClient must be initialized first!
+	at w.getInstance (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3802568)
+	at Timeout.e [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3967470)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)

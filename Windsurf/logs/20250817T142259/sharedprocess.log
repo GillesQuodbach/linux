@@ -1,0 +1,5 @@
+2025-08-17 14:23:40.149 [info] Getting Manifest... golang.go
+2025-08-17 14:23:40.851 [info] Installing extension: golang.go {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json","path":"/home/codebash/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-08-07T17:53:24.476Z"}}
+2025-08-17 14:23:41.287 [info] Extracted extension to file:///home/codebash/.windsurf/extensions/golang.go-0.48.0-universal: golang.go
+2025-08-17 14:23:41.300 [info] Renamed to /home/codebash/.windsurf/extensions/golang.go-0.48.0-universal
+2025-08-17 14:23:41.323 [info] Extension installed successfully: golang.go vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json

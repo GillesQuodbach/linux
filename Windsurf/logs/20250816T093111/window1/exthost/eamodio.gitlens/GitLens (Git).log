@@ -1,0 +1,8 @@
+2025-08-16 09:31:19.114 [info] [2025-08-16 07:31:19.084] [         24ms] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • FAILED
+2025-08-16 09:31:19.114 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-16 09:40:53.799 [info] [2025-08-16 07:40:53.799] [          7ms] [/home/codebash/.codeium/windsurf/brain/2f94971a-b1c3-41dd-8d28-4ed13e4bcb5a] git rev-parse --show-toplevel • FAILED
+2025-08-16 09:40:53.799 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

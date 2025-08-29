@@ -1,0 +1,53 @@
+2025-08-10 09:20:54.404 [error] Error getting repo info: Failed to execute git
+2025-08-10 09:20:54.404 [error] Error: Failed to execute git
+	at t.Git._exec (/tmp/.mount_cursorag4V7o/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/tmp/.mount_cursorag4V7o/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/tmp/.mount_cursorag4V7o/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/tmp/.mount_cursorag4V7o/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-10 09:20:54.404 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 09:20:54.404 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 09:20:54.404 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 09:20:54.404 [info] Using existing keys for an index
+2025-08-10 09:20:54.404 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:20:54.404 [info] Using existing keys for an index
+2025-08-10 09:20:54.404 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:20:54.404 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 09:20:54.404 [info] Using existing keys for an index
+2025-08-10 09:20:54.404 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:20:54.404 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 09:20:54.405 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 09:20:54.414 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 09:20:54.437 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 09:20:54.549 [info] Using existing keys for an index
+2025-08-10 09:20:54.549 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:20:54.709 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 09:20:54.715 [info] Setting global status from status tracker: synced
+2025-08-10 09:20:54.715 [info] Doing a startup handshake.
+2025-08-10 09:20:55.017 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 09:20:55.029 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 09:20:55.075 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 09:20:55.141 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 09:20:55.154 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 09:20:55.178 [info] Finished computing merkle tree in 21.78620300000057 ms.
+2025-08-10 09:20:55.179 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 09:20:55.184 [info] Computed simhash vector of length: 0
+2025-08-10 09:20:55.184 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-10 09:20:55.184 [info] Handshake start
+2025-08-10 09:20:55.541 [info] Handshake timing: 361.15727700000025, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 09:20:55.542 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 09:20:55.542 [info] Starting fast remote sync.
+2025-08-10 09:20:55.542 [info] Total num embeddable files: 0
+2025-08-10 09:20:55.542 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 09:20:55.542 [info] In the out of sync case.
+2025-08-10 09:20:55.544 [info] Waiting on semaphore to be released 1
+2025-08-10 09:20:55.744 [info] setting numJobsToGo to 0
+2025-08-10 09:20:55.748 [info] [startSync]: numJobs: 0
+2025-08-10 09:20:56.186 [info] Uploading 0 files.
+2025-08-10 09:20:56.187 [info] Total number of files to embed: 0
+2025-08-10 09:20:56.187 [info] Not aborted
+2025-08-10 09:20:56.187 [info] Starting while loop.
+2025-08-10 09:20:56.304 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 09:20:56.429 [info] Finished indexing repository.
+2025-08-10 09:20:56.429 [info] Indexing job successfully done or aborted.
+2025-08-10 09:21:31.471 [info] multiCodebaseIndexingJob dispose
+2025-08-10 09:21:31.471 [info] Aborting indexing job.

@@ -1,0 +1,19 @@
+2025-08-15 08:16:20.639 [info] 2025/08/15 08:16:20 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-08-15 08:16:20.832 [info] I0815 08:16:20.832528  9384 main.go:605] Setting GOMAXPROCS to 4
+2025-08-15 08:16:20.833 [info] I0815 08:16:20.833218  9384 main.go:824] Starting language server process with pid 9384
+2025-08-15 08:16:20.835 [info] I0815 08:16:20.835176  9384 server.go:301] Language server will attempt to listen on host 127.0.0.1
+2025-08-15 08:16:20.835 [info] I0815 08:16:20.835831  9384 server.go:308] Language server listening on random port at 46801
+2025-08-15 08:16:21.285 [info] I0815 08:16:21.285132  9384 server.go:441] Created extension server client at port 46599
+2025-08-15 08:16:21.327 [info] I0815 08:16:21.327011  9384 server.go:1010] Local search is enabled, will index local files.
+2025-08-15 08:16:21.327 [info] I0815 08:16:21.327047  9384 server.go:1014] Using 2 indexer workers
+2025-08-15 08:16:21.768 [info] (Windsurf) 2025-08-15 08:16:21.765 [INFO]: Language server started
+2025-08-15 08:16:22.785 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-15 08:16:22.791 [info] (Windsurf) 2025-08-15 08:16:22.790 [INFO]: LS lspClient started successfully
+2025-08-15 08:35:18.766 [info] E0815 08:35:18.766394  9384 cascade_manager.go:364] Removing trajectory 3fe43a8c-18ad-4684-b7f5-14121e38b58f from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-15 08:35:18.794 [info] E0815 08:35:18.794159  9384 cascade_manager.go:364] Removing trajectory 3fe43a8c-18ad-4684-b7f5-14121e38b58f from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-15 08:38:03.921 [info] E0815 08:38:03.921197  9384 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/AddPlantScreen.js
+2025-08-15 08:49:35.562 [info] E0815 08:49:35.562007  9384 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/EditPlantScreen.js
+2025-08-15 08:50:43.780 [info] E0815 08:50:43.780406  9384 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/EditPlantScreen.js

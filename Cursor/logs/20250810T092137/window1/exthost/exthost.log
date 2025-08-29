@@ -1,0 +1,158 @@
+2025-08-10 09:21:40.980 [info] Extension host with pid 12198 started
+2025-08-10 09:21:40.980 [info] Skipping acquiring lock for /home/codebash/.config/Cursor/User/workspaceStorage/72d0f2f40588566449bff4c872e51257.
+2025-08-10 09:21:40.996 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-10 09:21:41.021 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-10 09:21:41.065 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-10 09:21:41.141 [info] Eager extensions activated
+2025-08-10 09:21:41.191 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.368 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.413 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.614 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.673 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.823 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.825 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.840 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.868 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:41.896 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:42.017 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:42.065 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onStartupFinished', root cause: expo.vscode-expo-tools
+2025-08-10 09:21:42.173 [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onStartupFinished', root cause: expo.vscode-expo-tools
+2025-08-10 09:21:42.257 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:42.512 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-10 09:21:42.615 [info] ExtensionService#_doActivateExtension expo.vscode-expo-tools, startup: false, activationEvent: 'onStartupFinished'
+2025-08-10 09:21:43.042 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-08-10 09:21:43.043 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-08-10 09:22:44.819 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-10 09:22:44.837 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-08-10 09:22:44.840 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+	at Object.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:1428012)
+	at ere.<anonymous> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:10081)
+	at ere.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:10177)
+	at Object.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:536:29282)
+	at /home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:813:16179
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:813:16161)
+	at tr (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:18900
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1018
+	at Object.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:712)
+	at Tkt._deactivate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:15076)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12359
+	at Array.map (<anonymous>)
+	at Tkt._deactivateAll (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12347)
+	at Tkt.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12701)
+	at kPe.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:1616)
+	at en (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:6736)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:3168)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-08-10 09:22:44.845 [error] Canceled: Canceled
+	at new HBe (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:118983)
+	at oue._remoteCall (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:125311)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:122068)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48919)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at t.registerCommand.description (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:47622)
+	at Wae._executeContributedCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:49489)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48491)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at Object.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:194:140353)
+	at w (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:456:13014)
+	at c (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:3:9937)
+	at ActionRunners._updateContextKeys (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:6393)
+	at s (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4837)
+	at RegisteredActionRunner.unregister (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4980)
+	at RegisteredActionRunner.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:3640)
+	at Object.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:5074)
+	at tr (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:18900
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1018
+	at Object.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:712)
+	at Tkt._deactivate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:15076)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12359
+	at Array.map (<anonymous>)
+	at Tkt._deactivateAll (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12347)
+	at Tkt.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12701)
+	at kPe.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:1616)
+	at en (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:6736)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:3168)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.callbackTrampoline (node:internal/async_hooks:130:17) setContext undefined
+2025-08-10 09:22:44.845 [error] Canceled: Canceled
+	at new HBe (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:118983)
+	at oue._remoteCall (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:125311)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:122068)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48919)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at t.registerCommand.description (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:47622)
+	at Wae._executeContributedCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:49489)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48491)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at Object.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:194:140353)
+	at w (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:456:13014)
+	at c (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:3:9937)
+	at ActionRunners._updateContextKeys (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:6393)
+	at s (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4837)
+	at RegisteredActionRunner.unregister (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4980)
+	at RegisteredActionRunner.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:3640)
+	at Object.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:5074)
+	at tr (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:18900
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1018
+	at Object.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:712)
+	at Tkt._deactivate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:15076)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12359
+	at Array.map (<anonymous>)
+	at Tkt._deactivateAll (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12347)
+	at Tkt.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12701)
+	at kPe.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:1616)
+	at en (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:6736)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:3168)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.callbackTrampoline (node:internal/async_hooks:130:17) setContext undefined
+2025-08-10 09:22:44.845 [error] Canceled: Canceled
+	at new HBe (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:118983)
+	at oue._remoteCall (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:125311)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:122068)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48919)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at t.registerCommand.description (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:47622)
+	at Wae._executeContributedCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:49489)
+	at Wae._doExecuteCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48491)
+	at Wae.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:132:48358)
+	at Object.executeCommand (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:194:140353)
+	at w (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:456:13014)
+	at c (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:3:9937)
+	at ActionRunners._updateContextKeys (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:6393)
+	at s (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4837)
+	at RegisteredActionRunner.unregister (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:4980)
+	at RegisteredActionRunner.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:3640)
+	at Object.dispose (/home/codebash/.cursor/extensions/eamodio.gitlens-17.3.3-universal/dist/gitlens.js:1994:5074)
+	at tr (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:18900
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1018
+	at Object.dispose (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:712)
+	at Tkt._deactivate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:15076)
+	at file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12359
+	at Array.map (<anonymous>)
+	at Tkt._deactivateAll (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12347)
+	at Tkt.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12701)
+	at kPe.terminate (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:1616)
+	at en (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:6736)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:218:3168)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+	at Object.callbackTrampoline (node:internal/async_hooks:130:17) setContext undefined
+2025-08-10 09:22:44.845 [error] Error: Channel has been closed
+	at n (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:3268)
+	at Object.appendLine (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:3407)
+	at c (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:123066)
+	at t.deactivate (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:125552)
+	at /tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1864580
+	at t.deactivate (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1864638)
+	at async Promise.all (index 0)
+	at async Tkt._deactivateAll (file:///tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:12382)
+2025-08-10 09:22:44.845 [info] Extension host with pid 12198 exiting with code 0

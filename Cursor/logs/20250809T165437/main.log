@@ -1,0 +1,5 @@
+2025-08-09 16:54:37.733 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.4.2/b807c2045635b5f0b41e0463b5ea4ddfe8d8dc6b6380300644cda2b24c21d3b2/stable
+2025-08-09 16:54:37.734 [info] update#setState idle
+2025-08-09 16:55:07.735 [info] update#setState checking for updates
+2025-08-09 16:55:07.843 [info] update#setState available for download
+2025-08-09 17:13:24.683 [info] Extension host with pid 15094 exited with code: 0, signal: unknown.

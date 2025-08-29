@@ -1,0 +1,38 @@
+2025-08-27 15:44:28.894 [info] GitLens v17.3.4 activating in Windsurf (1.99.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7|d5fb4c95-7c10-4077-928e-7eefd91acfa81756302247226)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-08-27 13:44:28.744] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 13:44:28.745] [GIT          ] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [262ms]
+
+2025-08-27 15:44:29.264 [info] [2025-08-27 13:44:28.883] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 13:44:28.883] [GIT          ] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [21ms]
+[2025-08-27 13:44:29.263] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 13:44:29.264] [GIT          ] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [93ms]
+
+2025-08-27 15:57:29.175 [info] [2025-08-27 13:57:28.674] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 13:57:28.674] [GIT          ] [/home/codebash/.codeium/windsurf/brain/ffc9ce27-eef1-4305-8dcb-50a2f7736992] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [114ms]
+
+2025-08-27 16:00:42.345 [info] GitLens v17.4.1 activating in Windsurf (1.99.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7|fe285339-9ba6-45d0-9688-df45bc75ecc81756303227623)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-08-27 16:00:42.345 [info] [2025-08-27 14:00:41.823] [GIT    *915ms] [/home/codebash/CascadeProjects/PlantApp] git rev-parse --show-toplevel [*915ms] (slow)
+
+2025-08-27 16:00:42.909 [info] [2025-08-27 14:00:42.904] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 14:00:42.905] [GIT          ] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [116ms]
+[2025-08-27 14:00:42.908] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 14:00:42.908] [GIT          ] [/home/codebash/.codeium/windsurf/brain/2f94971a-b1c3-41dd-8d28-4ed13e4bcb5a] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [144ms]
+
+2025-08-27 16:01:48.698 [info] [2025-08-27 14:01:48.197] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-27 14:01:48.198] [GIT          ] [/home/codebash/.codeium/windsurf/brain/2827963e-55dc-4005-ba04-d81dc8093ecb] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+2025-08-27 16:07:33.690 [info] [2025-08-27 14:07:33.190] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false log --format=%x1E%H%x1D --summary -n1 1dfe1af79d2f20dac25897641f8ef830d619949b^ -- src/components/PlantCard.js): fatal: bad revision '1dfe1af79d2f20dac25897641f8ef830d619949b^'
+
+
+2025-08-27 16:07:34.691 [info] [2025-08-27 14:07:34.553] [GIT   *1429ms] [/home/codebash/CascadeProjects/PlantApp] git log --format=%x1E%H%x1D%aN%x1D%aE%x1D%at%x1D%cN%x1D%cE%x1D%ct%x1D%P%x1D%D%x1D%B%x1D --numstat --summary -M --use-mailmap -m --no-min-parents -n1 1dfe1af79d2f20dac25897641f8ef830d619949b -- [*1429ms] (slow)
+

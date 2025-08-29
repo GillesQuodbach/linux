@@ -1,0 +1,7 @@
+2025-08-16 09:31:11.715 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"6c39c5cad177378099bc57aabc1b31fd","uri":{"$mid":1,"fsPath":"/home/codebash/CascadeProjects/PlantApp","external":"file:///home/codebash/CascadeProjects/PlantApp","path":"/home/codebash/CascadeProjects/PlantApp","scheme":"file"}}}
+2025-08-16 09:31:11.715 [info] update#setState idle
+2025-08-16 09:31:41.714 [info] update#setState checking for updates
+2025-08-16 09:31:41.845 [info] update#setState available for download
+2025-08-16 11:20:49.878 [info] Extension host with pid 17086 exited with code: 0, signal: unknown.
+2025-08-16 11:20:49.899 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"6c39c5cad177378099bc57aabc1b31fd","uri":{"$mid":1,"fsPath":"/home/codebash/CascadeProjects/PlantApp","external":"file:///home/codebash/CascadeProjects/PlantApp","path":"/home/codebash/CascadeProjects/PlantApp","scheme":"file"}}}
+2025-08-16 11:20:49.907 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

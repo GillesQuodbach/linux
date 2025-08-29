@@ -1,0 +1,39 @@
+2025-08-10 08:36:44.536 [error] Error getting repo info: Failed to execute git
+2025-08-10 08:36:44.536 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-10 08:36:44.536 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 08:36:44.536 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 08:36:44.536 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 08:36:44.536 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 08:36:44.536 [info] Using existing keys for an index
+2025-08-10 08:36:44.536 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 08:36:44.536 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 08:36:44.547 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 08:36:44.655 [info] Using existing keys for an index
+2025-08-10 08:36:44.655 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 08:36:44.789 [info] Setting global status from status tracker: synced
+2025-08-10 08:36:44.789 [info] Doing a startup handshake.
+2025-08-10 08:36:45.088 [info] Finished computing merkle tree in 14.588461999999708 ms.
+2025-08-10 08:36:45.088 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 08:36:45.093 [info] Computed simhash vector of length: 0
+2025-08-10 08:36:45.093 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-10 08:36:45.093 [info] Handshake start
+2025-08-10 08:36:45.485 [info] Handshake timing: 395.0229720000002, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:36:45.485 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 08:36:45.485 [info] Starting fast remote sync.
+2025-08-10 08:36:45.498 [info] Total num embeddable files: 0
+2025-08-10 08:36:45.499 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 08:36:45.499 [info] In the out of sync case.
+2025-08-10 08:36:45.508 [info] Waiting on semaphore to be released 1
+2025-08-10 08:36:45.709 [info] setting numJobsToGo to 0
+2025-08-10 08:36:45.709 [info] [startSync]: numJobs: 0
+2025-08-10 08:36:45.711 [info] Uploading 0 files.
+2025-08-10 08:36:45.712 [info] Total number of files to embed: 0
+2025-08-10 08:36:45.712 [info] Not aborted
+2025-08-10 08:36:45.712 [info] Starting while loop.
+2025-08-10 08:36:45.831 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 08:36:45.944 [info] Finished indexing repository.
+2025-08-10 08:36:45.944 [info] Indexing job successfully done or aborted.

@@ -1,0 +1,7 @@
+2025-08-09 08:57:53.577 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-09 08:57:53.578 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-09 08:57:53.578 [info] Fetching repository at '/home/codebash/dev/QuitSmokingApp'...
+2025-08-09 08:57:53.878 [info] Doing a startup handshake for git indexing.
+2025-08-09 08:57:53.882 [error] Error during indexing setup: Cannot perform handshake: Git repository information is not available.
+2025-08-09 08:58:02.821 [info] MultiBranchIndexJob dispose
+2025-08-09 08:58:02.821 [info] Aborting multi-branch indexing job.

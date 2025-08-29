@@ -1,0 +1,46 @@
+2025-08-10 09:21:42.604 [error] Error getting repo info: Failed to execute git
+2025-08-10 09:21:42.604 [error] Error: Failed to execute git
+	at t.Git._exec (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1347452)
+	at async t.GitProvider.getRepoInfo (/tmp/.mount_cursor1jArLt/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1320321)
+2025-08-10 09:21:42.604 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-08-10 09:21:42.604 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-08-10 09:21:42.604 [info] Using existing keys for an index
+2025-08-10 09:21:42.604 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:21:42.733 [info] Using existing keys for an index
+2025-08-10 09:21:42.733 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-08-10 09:21:42.797 [info] Setting global status from status tracker: synced
+2025-08-10 09:21:42.797 [info] Doing a startup handshake.
+2025-08-10 09:21:42.847 [warning] Failed to get symbolic ref: Failed to execute git
+2025-08-10 09:21:42.981 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/codebash/dev/growing-app/.git/HEAD')
+2025-08-10 09:21:43.057 [warning] Failed to get branches from remote: Failed to execute git
+2025-08-10 09:21:43.066 [warning] Failed to get default branch from git config: Failed to execute git
+2025-08-10 09:21:43.090 [info] Finished computing merkle tree in 25.429305999999997 ms.
+2025-08-10 09:21:43.092 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 09:21:43.096 [info] Computed simhash vector of length: 0
+2025-08-10 09:21:43.096 [info] Path key hash: 4523dc2ee29b66c7a19a9391090dd074aa9f65ed99b72b9ebdcd02d6dce0d50a
+2025-08-10 09:21:43.096 [info] Handshake start
+2025-08-10 09:21:43.476 [info] Handshake timing: 382.7983549999999, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 09:21:43.477 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"716eb895-d2d0-4793-86f4-8ecb41d708b6","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-08-10 09:21:43.477 [info] Starting fast remote sync.
+2025-08-10 09:21:43.477 [info] Total num embeddable files: 0
+2025-08-10 09:21:43.480 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-08-10 09:21:43.480 [info] In the out of sync case.
+2025-08-10 09:21:43.481 [info] Waiting on semaphore to be released 1
+2025-08-10 09:21:43.680 [info] setting numJobsToGo to 0
+2025-08-10 09:21:43.681 [info] [startSync]: numJobs: 0
+2025-08-10 09:21:43.682 [info] Uploading 0 files.
+2025-08-10 09:21:43.683 [info] Total number of files to embed: 0
+2025-08-10 09:21:43.683 [info] Not aborted
+2025-08-10 09:21:43.683 [info] Starting while loop.
+2025-08-10 09:21:43.815 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-08-10 09:21:43.927 [info] Finished indexing repository.
+2025-08-10 09:21:43.927 [info] Indexing job successfully done or aborted.
+2025-08-10 09:22:11.660 [error] Error getting git status: Failed to execute git
+2025-08-10 09:22:13.015 [error] Error getting git status: Failed to execute git
+2025-08-10 09:22:14.471 [error] Error getting git status: Failed to execute git
+2025-08-10 09:22:26.970 [error] Error getting git status: Failed to execute git
+2025-08-10 09:22:28.228 [error] Error getting git status: Failed to execute git
+2025-08-10 09:22:44.843 [info] multiCodebaseIndexingJob dispose
+2025-08-10 09:22:44.843 [info] Aborting indexing job.

@@ -1,0 +1,67 @@
+2025-08-10 08:29:22.378 [info] [main] Log level: Info
+2025-08-10 08:29:22.378 [info] [main] Validating found git in: "git"
+2025-08-10 08:29:22.378 [info] [main] Using git "2.50.1" from "git"
+2025-08-10 08:29:22.378 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-10 08:29:22.378 [info] > git rev-parse --show-toplevel [5ms]
+2025-08-10 08:29:22.378 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-08-10 08:29:22.378 [info] [Model][openRepository] Opened repository: /home/codebash/dev/growing-app
+2025-08-10 08:29:22.378 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-10 08:29:22.378 [info] > git config --get commit.template [5ms]
+2025-08-10 08:29:22.378 [info] > git fetch [18ms]
+2025-08-10 08:29:22.378 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:22.378 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:22.378 [info] > git config --get commit.template [12ms]
+2025-08-10 08:29:22.378 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:22.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2025-08-10 08:29:22.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2025-08-10 08:29:22.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2025-08-10 08:29:22.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-08-10 08:29:22.378 [info] > git config --get --local branch.master.vscode-merge-base [27ms]
+2025-08-10 08:29:22.378 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-10 08:29:22.378 [info] > git config --get commit.template [54ms]
+2025-08-10 08:29:22.378 [info] > git reflog master --grep-reflog=branch: Created from *. [7ms]
+2025-08-10 08:29:22.378 [info] > git config --get --local branch.master.vscode-merge-base [21ms]
+2025-08-10 08:29:22.378 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-10 08:29:22.378 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:22.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-08-10 08:29:22.403 [info] > git reflog master --grep-reflog=branch: Created from *. [39ms]
+2025-08-10 08:29:22.405 [info] > git status -z -uall [12ms]
+2025-08-10 08:29:22.406 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 08:29:24.393 [info] > git config --get remote.origin.url [264ms]
+2025-08-10 08:29:24.639 [info] > git rev-parse --show-toplevel [19ms]
+2025-08-10 08:29:24.760 [info] > git check-ignore -v -z --stdin [67ms]
+2025-08-10 08:29:24.761 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [50ms]
+2025-08-10 08:29:24.761 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-08-10 08:29:24.855 [info] > git fetch --all [6ms]
+2025-08-10 08:29:24.855 [info] > git remote get-url --push origin [65ms]
+2025-08-10 08:29:24.855 [info] error: No such remote 'origin'
+2025-08-10 08:29:24.855 [info] > git rev-parse --abbrev-ref HEAD [97ms]
+2025-08-10 08:29:25.144 [info] > git remote get-url --push origin [258ms]
+2025-08-10 08:29:25.145 [info] error: No such remote 'origin'
+2025-08-10 08:29:25.213 [info] > git config --get commit.template [81ms]
+2025-08-10 08:29:25.228 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:25.229 [info] > git rev-parse --verify origin/master [9ms]
+2025-08-10 08:29:25.229 [info] fatal: Needed a single revision
+2025-08-10 08:29:25.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2025-08-10 08:29:25.275 [info] > git status -z -uall [19ms]
+2025-08-10 08:29:25.276 [info] > git rev-parse --show-toplevel [6ms]
+2025-08-10 08:29:25.276 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2025-08-10 08:29:25.278 [info] > git rev-parse --verify origin/main [42ms]
+2025-08-10 08:29:25.278 [info] fatal: Needed a single revision
+2025-08-10 08:29:25.299 [info] > git config --get commit.template [6ms]
+2025-08-10 08:29:25.299 [info] > git rev-parse --verify origin/master [15ms]
+2025-08-10 08:29:25.299 [info] fatal: Needed a single revision
+2025-08-10 08:29:25.311 [info] > git rev-parse --verify origin/develop [5ms]
+2025-08-10 08:29:25.311 [info] fatal: Needed a single revision
+2025-08-10 08:29:25.344 [info] [Git][getRemotes] No remotes found in the git config file
+2025-08-10 08:29:25.349 [info] > git branch -r [29ms]
+2025-08-10 08:29:25.407 [info] > git config --get init.defaultBranch [49ms]
+2025-08-10 08:29:25.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [64ms]
+2025-08-10 08:29:25.540 [info] > git status -z -uall [126ms]
+2025-08-10 08:29:25.542 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [120ms]
+2025-08-10 08:29:32.137 [info] > git config --global user.name [2ms]
+2025-08-10 08:29:32.149 [info] > git config --global user.email [1ms]
+2025-08-10 08:29:32.149 [info] [main] Stored git author name in global state: GillesQuodbach <quodbach.gilles@gmail.com>
+2025-08-10 08:29:36.039 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 08:29:36.068 [info] > git remote get-url --push origin [19ms]
+2025-08-10 08:29:36.068 [info] error: No such remote 'origin'

@@ -1,0 +1,94 @@
+2025-08-27 15:44:07.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 15:44:07.427 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-08-27 15:44:07.481 [error] Window not found: Error: Window not found
+    at Rui.getWindowsInGroup (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3482:8541)
+    at new H8t (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1925:176396)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3310
+    at Mvi.d (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78502)
+    at get value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78644)
+    at Object.get (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3833)
+    at Poe._runFn (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:17143)
+    at Poe.l (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22641)
+    at new Poe (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22353)
+2025-08-27 15:44:07.697 [info] Started local extension host with pid 7258.
+2025-08-27 15:44:10.221 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-08-27 15:44:11.706 [info] Auto updating outdated extensions. eamodio.gitlens
+2025-08-27 15:44:12.544 [info] Auto updating extension eamodio.gitlens
+2025-08-27 15:44:27.324 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-27 15:44:35.454 [info] [perf] Render performance baseline is 109ms
+2025-08-27 15:44:36.824 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-08-27 16:00:27.118 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/.codeium/windsurf/brain/ffc9ce27-eef1-4305-8dcb-50a2f7736992/plan.md 
+2025-08-27 16:00:27.600 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.601 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.602 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.602 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.602 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.602 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-27 16:00:27.820 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-08-27 16:00:27.895 [error] Window not found: Error: Window not found
+    at Rui.getWindowsInGroup (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3482:8541)
+    at new H8t (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1925:176396)
+    at bpi.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:1590)
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3310
+    at Mvi.d (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78502)
+    at get value (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78644)
+    at Object.get (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:3833)
+    at Poe._runFn (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:3422:17143)
+    at Poe.l (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22641)
+    at new Poe (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:31:22353)
+2025-08-27 16:00:28.110 [info] Started local extension host with pid 10995.
+2025-08-27 16:00:33.508 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-08-27 16:00:35.143 [info] [perf] Render performance baseline is 196ms
+2025-08-27 16:07:44.811 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,21 @@
+2025-08-27 15:48:54.037 [info] Extension host with pid 8453 started
+2025-08-27 15:48:54.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-08-27 15:48:54.109 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-08-27 15:48:54.151 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-08-27 15:48:54.235 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-27 15:48:54.242 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-27 15:48:54.296 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-27 15:48:54.358 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-27 15:48:54.386 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2025-08-27 15:48:55.615 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-27 15:48:55.636 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new VH (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113205)
+	at cD.U (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117816)
+	at s.<computed>.r.charCodeAt.s.<computed> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115310)
+	at cI.resolveProxy (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:56584)
+	at Object.resolveProxy (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:21468)
+	at useProxySettings (/usr/share/windsurf/resources/app/node_modules/@vscode/proxy-agent/out/index.js:182:16)
+	at /usr/share/windsurf/resources/app/node_modules/@vscode/proxy-agent/out/index.js:119:13
+	at /usr/share/windsurf/resources/app/node_modules/@vscode/proxy-agent/out/index.js:707:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2025-08-27 15:48:55.649 [info] Extension host with pid 8453 exiting with code 0

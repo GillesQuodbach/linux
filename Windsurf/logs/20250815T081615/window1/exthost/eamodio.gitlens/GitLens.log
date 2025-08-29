@@ -1,0 +1,7 @@
+2025-08-15 08:16:23.000 [info] GitLens v17.3.4 activating in Windsurf (1.99.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7|b204c6be-fbc9-4d65-9077-c670ac5675191755238576202)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-08-15 08:35:30.807 [info] [2025-08-15 06:35:30.308] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-08-15 06:35:30.308] [GIT          ] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [51ms]
+

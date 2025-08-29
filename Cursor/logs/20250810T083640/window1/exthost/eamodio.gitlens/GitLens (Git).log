@@ -1,0 +1,4 @@
+2025-08-10 08:36:44.546 [info] [2025-08-10 06:36:44.416] [         87ms] [/home/codebash/dev/growing-app] git rev-parse --show-toplevel • FAILED
+2025-08-10 08:36:44.546 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

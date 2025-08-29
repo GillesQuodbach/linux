@@ -1,0 +1,28 @@
+2025-08-27 15:44:28.894 [info] [2025-08-27 13:44:28.745] [        262ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-27 15:44:28.894 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 15:44:28.894 [info] [2025-08-27 13:44:28.883] [         21ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-27 15:44:28.894 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 15:44:29.264 [info] [2025-08-27 13:44:29.264] [         93ms] [/home/codebash/dev/test_go] git rev-parse --show-toplevel • FAILED
+2025-08-27 15:44:29.264 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 15:57:28.675 [info] [2025-08-27 13:57:28.675] [        114ms] [/home/codebash/.codeium/windsurf/brain/ffc9ce27-eef1-4305-8dcb-50a2f7736992] git rev-parse --show-toplevel • FAILED
+2025-08-27 15:57:28.675 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 16:00:43.036 [info] [2025-08-27 14:00:42.906] [        116ms] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • FAILED
+2025-08-27 16:00:43.036 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 16:00:43.036 [info] [2025-08-27 14:00:42.908] [        144ms] [/home/codebash/.codeium/windsurf/brain/2f94971a-b1c3-41dd-8d28-4ed13e4bcb5a] git rev-parse --show-toplevel • FAILED
+2025-08-27 16:00:43.036 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-27 16:01:48.198 [info] [2025-08-27 14:01:48.198] [          7ms] [/home/codebash/.codeium/windsurf/brain/2827963e-55dc-4005-ba04-d81dc8093ecb] git rev-parse --show-toplevel • FAILED
+2025-08-27 16:01:48.198 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

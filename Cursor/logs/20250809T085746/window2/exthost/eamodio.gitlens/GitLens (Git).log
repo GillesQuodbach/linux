@@ -1,0 +1,12 @@
+2025-08-09 09:03:09.073 [info] [2025-08-09 07:03:08.973] [          7ms] [/home/codebash/dev/stop_alcool] git rev-parse --show-toplevel • FAILED
+2025-08-09 09:03:09.073 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-09 09:12:44.465 [info] [2025-08-09 07:12:44.465] [         13ms] [/home/codebash/dev/stop_alcool] git rev-parse --show-toplevel • FAILED
+2025-08-09 09:12:44.465 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-08-09 09:12:44.479 [info] [2025-08-09 07:12:44.479] [         12ms] [/home/codebash/dev/stop_alcool] git rev-parse --show-toplevel • FAILED
+2025-08-09 09:12:44.479 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

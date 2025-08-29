@@ -1,0 +1,39 @@
+2025-08-27 15:44:28.107 [info] 2025/08/27 15:44:27 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-08-27 15:44:28.107 [info] I0827 15:44:28.050238  7669 main.go:605] Setting GOMAXPROCS to 4
+2025-08-27 15:44:28.107 [info] I0827 15:44:28.050786  7669 main.go:824] Starting language server process with pid 7669
+2025-08-27 15:44:28.107 [info] I0827 15:44:28.053461  7669 server.go:301] Language server will attempt to listen on host 127.0.0.1
+2025-08-27 15:44:28.107 [info] I0827 15:44:28.053978  7669 server.go:308] Language server listening on random port at 41579
+2025-08-27 15:44:28.743 [info] I0827 15:44:28.518841  7669 server.go:441] Created extension server client at port 39405
+2025-08-27 15:44:28.743 [info] I0827 15:44:28.600889  7669 server.go:1010] Local search is enabled, will index local files.
+2025-08-27 15:44:28.743 [info] I0827 15:44:28.600931  7669 server.go:1014] Using 2 indexer workers
+2025-08-27 15:44:29.057 [info] (Windsurf) 2025-08-27 15:44:29.050 [INFO]: Language server started
+2025-08-27 15:44:29.214 [info] (Windsurf) 2025-08-27 15:44:29.214 [INFO]: LS lspClient started successfully
+2025-08-27 15:44:30.561 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-27 15:44:30.562 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-27 15:44:30.563 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-27 15:57:03.652 [info] E0827 15:57:03.651875  7669 cascade_manager.go:364] Removing trajectory 4acf514b-7ddd-4064-9e6c-305456127431 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-27 15:57:03.726 [info] E0827 15:57:03.726730  7669 cascade_manager.go:364] Removing trajectory 4acf514b-7ddd-4064-9e6c-305456127431 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-27 16:00:16.999 [info] (Windsurf) 2025-08-27 16:00:16.998 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-08-27 16:00:27.168 [info] (Windsurf) 2025-08-27 16:00:27.146 [INFO]: Shutting down all 0 managed language servers
+2025-08-27 16:00:27.176 [info] I0827 16:00:27.172038  7669 server.go:1487] Exit requested on language server process 7669
+2025-08-27 16:00:27.176 [info] I0827 16:00:27.172156  7669 server.go:1460] Language server shutting down
+2025-08-27 16:00:36.226 [info] 2025/08/27 16:00:36 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-08-27 16:00:37.220 [info] I0827 16:00:37.220151 11199 main.go:605] Setting GOMAXPROCS to 4
+2025-08-27 16:00:37.221 [info] I0827 16:00:37.221134 11199 main.go:824] Starting language server process with pid 11199
+2025-08-27 16:00:37.222 [info] I0827 16:00:37.221625 11199 server.go:301] Language server will attempt to listen on host 127.0.0.1
+2025-08-27 16:00:37.222 [info] I0827 16:00:37.222238 11199 server.go:308] Language server listening on random port at 46537
+2025-08-27 16:00:37.803 [info] I0827 16:00:37.800282 11199 server.go:441] Created extension server client at port 43639
+2025-08-27 16:00:37.966 [info] I0827 16:00:37.966051 11199 server.go:1010] Local search is enabled, will index local files.
+2025-08-27 16:00:37.966 [info] I0827 16:00:37.966165 11199 server.go:1014] Using 2 indexer workers
+2025-08-27 16:00:38.551 [info] (Windsurf) 2025-08-27 16:00:38.539 [INFO]: Language server started
+2025-08-27 16:00:40.870 [info] BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+2025-08-27 16:00:40.883 [info] (Windsurf) 2025-08-27 16:00:40.883 [INFO]: LS lspClient started successfully
+2025-08-27 16:01:31.308 [info] E0827 16:01:31.307871 11199 cascade_manager.go:364] Removing trajectory db9bd250-aa7a-4981-8a87-100653b6cf66 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-27 16:01:31.339 [info] E0827 16:01:31.339389 11199 cascade_manager.go:364] Removing trajectory db9bd250-aa7a-4981-8a87-100653b6cf66 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-08-27 16:07:43.803 [info] E0827 16:07:43.802840 11199 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/src/screens/FertilizerScreen.js

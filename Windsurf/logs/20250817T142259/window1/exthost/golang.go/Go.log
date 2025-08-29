@@ -1,0 +1,15 @@
+2025-08-17 14:23:41.677 [info] Tools environment: GOPATH=/home/codebash/go, GOTOOLCHAIN=auto
+2025-08-17 14:23:41.677 [info] Installing 2 tools at /home/codebash/go/bin
+2025-08-17 14:23:41.677 [info]   gopls
+2025-08-17 14:23:41.677 [info]   staticcheck
+2025-08-17 14:23:41.677 [info] 
+2025-08-17 14:24:38.786 [info] Installing golang.org/x/tools/gopls@latest (/home/codebash/go/bin/gopls) SUCCEEDED
+2025-08-17 14:24:50.349 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/codebash/go/bin/staticcheck) SUCCEEDED
+2025-08-17 14:24:50.350 [info] 
+2025-08-17 14:24:50.350 [info] All tools successfully installed. You are ready to Go. :)
+2025-08-17 14:24:50.476 [info] Try to start language server - activation (enabled: true)
+2025-08-17 14:24:50.617 [info] Running language server gopls(v0.20.0/go1.24.6)
+2025-08-17 14:35:38.691 [info] Running checks...
+2025-08-17 14:35:38.691 [info] Starting linting the current package at /home/codebash/dev/test_go
+2025-08-17 14:35:39.505 [info] /home/codebash/dev/test_go>Finished running tool: /home/codebash/go/bin/staticcheck
+2025-08-17 14:35:39.505 [info] 

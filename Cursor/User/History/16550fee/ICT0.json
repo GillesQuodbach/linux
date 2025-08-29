@@ -1,0 +1,34 @@
+{
+  "name": "growing-app",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "expo": "~53.0.20",
+    "expo-device": "^7.1.4",
+    "expo-haptics": "^14.1.4",
+    "expo-image-picker": "^16.1.4",
+    "expo-notifications": "^0.31.4",
+    "expo-router": "^5.1.4",
+    "expo-sqlite": "^15.2.14",
+    "expo-status-bar": "~2.2.3",
+    "nanoid": "^5.1.5",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-svg": "^15.12.1",
+    "victory-native": "^41.18.0",
+    "zustand": "^5.0.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
