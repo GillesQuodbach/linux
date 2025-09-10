@@ -1,0 +1,41 @@
+2025-09-05 12:17:05.532 [info] Extension host with pid 6303 started
+2025-09-05 12:17:05.532 [info] Skipping acquiring lock for /home/codebash/.config/Windsurf/User/workspaceStorage/6c39c5cad177378099bc57aabc1b31fd.
+2025-09-05 12:17:05.859 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-05 12:17:05.879 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-09-05 12:17:06.507 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-05 12:17:06.513 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-09-05 12:17:06.621 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-05 12:17:06.767 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-05 12:17:07.497 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: true, activationEvent: '*'
+2025-09-05 12:17:12.102 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-05 12:17:12.127 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-09-05 12:17:12.166 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-09-05 12:17:13.894 [info] Eager extensions activated
+2025-09-05 12:17:13.941 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:13.945 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:13.987 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:14.002 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:14.089 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:14.407 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:14.547 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-09-05 12:17:14.580 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:17:15.059 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-05 12:17:15.650 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 12:26:16.555 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4270491)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4270887)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4277538)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3847408
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4275874)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4263737)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2309871)
+2025-09-05 12:26:34.670 [error] ConnectError: [unknown] no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+	at c (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4270491)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4270887)
+	at next (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4277538)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3847408
+	at async Object.unary (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4275874)
+	at async Object.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4263737)
+	at async t.acknowledgeCascadeCodeEdit (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:2309871)

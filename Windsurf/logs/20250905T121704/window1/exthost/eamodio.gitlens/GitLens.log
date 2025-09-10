@@ -1,0 +1,18 @@
+2025-09-05 12:17:17.218 [info] GitLens v17.4.1 activating in Windsurf (1.99.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (c67cda3ae213b822a777f8cf8627d0dc297d556c6396e273170ff2d5b689e0e7|9080bda6-9f60-4c04-a47b-86d1104105121757067424593)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-09-05 10:17:15.637] [GIT    *609ms] [/home/codebash/CascadeProjects/PlantApp] git rev-parse --show-toplevel [*609ms] (slow)
+
+2025-09-05 12:17:18.287 [info] [2025-09-05 10:17:17.799] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-09-05 10:17:17.806] [GIT          ] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [234ms]
+[2025-09-05 10:17:17.812] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-09-05 10:17:17.813] [GIT          ] [/home/codebash/.codeium/windsurf/brain/2f94971a-b1c3-41dd-8d28-4ed13e4bcb5a] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [272ms]
+[2025-09-05 10:17:17.814] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-09-05 10:17:17.814] [GIT          ] [/home/codebash/.codeium/windsurf/brain/2827963e-55dc-4005-ba04-d81dc8093ecb] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [307ms]
+
+2025-09-05 12:25:10.331 [info] [2025-09-05 10:25:09.831] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel): fatal: not a git repository (or any of the parent directories): .git
+
+[2025-09-05 10:25:09.832] [GIT          ] [/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib] git rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [39ms]
+

@@ -1,0 +1,5 @@
+2025-09-05 12:17:04.267 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"6c39c5cad177378099bc57aabc1b31fd","uri":{"$mid":1,"fsPath":"/home/codebash/CascadeProjects/PlantApp","external":"file:///home/codebash/CascadeProjects/PlantApp","path":"/home/codebash/CascadeProjects/PlantApp","scheme":"file"}}}
+2025-09-05 12:17:04.267 [info] update#setState idle
+2025-09-05 12:17:34.267 [info] update#setState checking for updates
+2025-09-05 12:17:34.434 [info] update#setState available for download
+2025-09-05 12:28:04.808 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

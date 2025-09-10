@@ -1,0 +1,12 @@
+2025-09-05 12:17:12.473 [info] 2025/09/05 12:17:12 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-09-05 12:17:12.950 [info] I0905 12:17:12.949174  6587 main.go:607] Setting GOMAXPROCS to 4
+2025-09-05 12:17:12.950 [info] I0905 12:17:12.949428  6587 main.go:826] Starting language server process with pid 6587
+2025-09-05 12:17:12.950 [info] I0905 12:17:12.949670  6587 server.go:298] Language server will attempt to listen on host 127.0.0.1
+2025-09-05 12:17:12.950 [info] I0905 12:17:12.949929  6587 server.go:305] Language server listening on random port at 41451
+2025-09-05 12:17:13.467 [info] I0905 12:17:13.467588  6587 server.go:438] Created extension server client at port 41321
+2025-09-05 12:17:13.826 [info] (Windsurf) 2025-09-05 12:17:13.817 [INFO]: Language server started
+2025-09-05 12:17:15.005 [info] (Windsurf) 2025-09-05 12:17:15.004 [INFO]: LS lspClient started successfully
+2025-09-05 12:25:53.555 [info] E0905 12:25:53.554784  6587 cascade_manager.go:365] Removing trajectory a07860a8-44ec-48bd-b9bd-725504c44816 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-09-05 12:25:53.668 [info] E0905 12:25:53.657490  6587 cascade_manager.go:365] Removing trajectory a07860a8-44ec-48bd-b9bd-725504c44816 from summaries reactive state (summary nil: false, summary length: 0, step count: 1)
+2025-09-05 12:26:15.550 [info] E0905 12:26:15.549032  6587 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js
+2025-09-05 12:26:33.667 [info] E0905 12:26:33.664565  6587 interceptor.go:73] /exa.language_server_pb.LanguageServerService/AcknowledgeCascadeCodeEdit (unknown): no unacknowledged steps for file file:///home/codebash/CascadeProjects/PlantApp/App.js

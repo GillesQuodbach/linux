@@ -1,0 +1,7 @@
+2025-09-05 12:16:49.763 [info] Deleted marked for removal extension from disk eamodio.gitlens /home/codebash/.windsurf/extensions/eamodio.gitlens-17.3.4-universal
+2025-09-05 12:16:53.983 [info] Getting Manifest... golang.go
+2025-09-05 12:16:55.160 [info] Installing extension: golang.go {"productVersion":{"version":"1.99.3","date":"2025-08-28T04:53:03.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json","path":"/home/codebash/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-05 12:16:56.373 [info] Extracted extension to file:///home/codebash/.windsurf/extensions/golang.go-0.50.0-universal: golang.go
+2025-09-05 12:16:56.432 [info] Renamed to /home/codebash/.windsurf/extensions/golang.go-0.50.0-universal
+2025-09-05 12:16:56.607 [info] Marked extension as removed golang.go-0.48.0-universal
+2025-09-05 12:16:56.696 [info] Extension installed successfully: golang.go vscode-userdata:/home/codebash/.windsurf/extensions/extensions.json

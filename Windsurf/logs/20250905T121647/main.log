@@ -1,0 +1,6 @@
+2025-09-05 12:16:47.813 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"6c39c5cad177378099bc57aabc1b31fd","uri":{"$mid":1,"fsPath":"/home/codebash/CascadeProjects/PlantApp","external":"file:///home/codebash/CascadeProjects/PlantApp","path":"/home/codebash/CascadeProjects/PlantApp","scheme":"file"}}}
+2025-09-05 12:16:47.817 [info] update#setState idle
+2025-09-05 12:16:59.329 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"6c39c5cad177378099bc57aabc1b31fd","uri":{"$mid":1,"fsPath":"/home/codebash/CascadeProjects/PlantApp","external":"file:///home/codebash/CascadeProjects/PlantApp","path":"/home/codebash/CascadeProjects/PlantApp","scheme":"file"}}}
+2025-09-05 12:16:59.396 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state
+2025-09-05 12:16:59.457 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5887]: crashed with code 15 and reason 'killed'
+2025-09-05 12:16:59.963 [info] Extension host with pid 5877 exited with code: 0, signal: unknown.

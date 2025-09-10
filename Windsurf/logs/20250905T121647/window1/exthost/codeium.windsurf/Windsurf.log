@@ -1,0 +1,9 @@
+2025-09-05 12:16:53.350 [info] 2025/09/05 12:16:53 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2025-09-05 12:16:53.586 [info] I0905 12:16:53.586230  6099 main.go:607] Setting GOMAXPROCS to 4
+2025-09-05 12:16:53.587 [info] I0905 12:16:53.587119  6099 main.go:826] Starting language server process with pid 6099
+2025-09-05 12:16:53.588 [info] I0905 12:16:53.588675  6099 server.go:298] Language server will attempt to listen on host 127.0.0.1
+2025-09-05 12:16:53.588 [info] I0905 12:16:53.588830  6099 server.go:305] Language server listening on random port at 34089
+2025-09-05 12:16:54.125 [info] I0905 12:16:54.125337  6099 server.go:438] Created extension server client at port 32957
+2025-09-05 12:16:54.465 [info] (Windsurf) 2025-09-05 12:16:54.457 [INFO]: Language server started
+2025-09-05 12:16:57.166 [info] (Windsurf) 2025-09-05 12:16:57.166 [INFO]: LS lspClient started successfully
+2025-09-05 12:16:59.923 [info] (Windsurf) 2025-09-05 12:16:59.859 [INFO]: Shutting down all 0 managed language servers

@@ -1,0 +1,26 @@
+2025-09-05 12:17:04.758 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-09-05 12:17:04.983 [info] Started local extension host with pid 6303.
+2025-09-05 12:17:09.356 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-09-05 12:17:10.693 [info] [perf] Render performance baseline is 231ms
+2025-09-05 12:17:34.439 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-09-05 12:26:16.560 [error] An unknown error occurred. Please consult the log for more details.
+2025-09-05 12:26:34.674 [error] An unknown error occurred. Please consult the log for more details.

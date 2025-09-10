@@ -1,0 +1,32 @@
+2025-09-05 12:16:48.881 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2025-09-05 12:16:49.121 [info] Started local extension host with pid 5877.
+2025-09-05 12:16:51.315 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at d9.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:87:3627)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4556)
+    at M1.s (file:///usr/share/windsurf/resources/app/out/main.js:31:20444)
+    at M1.q (file:///usr/share/windsurf/resources/app/out/main.js:31:19967)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:31:19369)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2443)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2660)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:4898)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at Ia.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5086)
+    at A.B (file:///usr/share/windsurf/resources/app/out/main.js:30:2373)
+    at A.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2591)
+    at U (file:///usr/share/windsurf/resources/app/out/main.js:28:7373)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:33:21016)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-09-05 12:16:52.200 [info] [perf] Render performance baseline is 32ms
+2025-09-05 12:16:52.979 [info] Auto updating outdated extensions. golang.go
+2025-09-05 12:16:53.980 [info] Auto updating extension golang.go
+2025-09-05 12:16:59.066 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/.codeium/windsurf/brain/2827963e-55dc-4005-ba04-d81dc8093ecb/plan.md 
+2025-09-05 12:16:59.068 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/CascadeProjects/PlantApp/src/screens/ChartsScreen.js 
+2025-09-05 12:16:59.071 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/CascadeProjects/PlantApp/src/screens/FertilizerScreen.js 
+2025-09-05 12:16:59.072 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/CascadeProjects/PlantApp/src/components/GroupCard.js 
+2025-09-05 12:16:59.078 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/CascadeProjects/PlantApp/src/screens/PlantDetailScreen.js 
+2025-09-05 12:16:59.079 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/CascadeProjects/PlantApp/src/screens/EditPlantScreen.js 
+2025-09-05 12:16:59.080 [warning] [backup tracker] suspended, ignoring unregister event file:///home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d/plan.md 

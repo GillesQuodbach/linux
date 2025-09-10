@@ -1,0 +1,16 @@
+2025-09-05 12:17:17.944 [info] [2025-09-05 10:17:17.807] [        234ms] [/home/codebash/.codeium/windsurf/brain/22c1c78c-e5e4-4e32-ae01-f3b14988502d] git rev-parse --show-toplevel • FAILED
+2025-09-05 12:17:17.944 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-05 12:17:17.944 [info] [2025-09-05 10:17:17.813] [        272ms] [/home/codebash/.codeium/windsurf/brain/2f94971a-b1c3-41dd-8d28-4ed13e4bcb5a] git rev-parse --show-toplevel • FAILED
+2025-09-05 12:17:17.944 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-05 12:17:17.944 [info] [2025-09-05 10:17:17.814] [        307ms] [/home/codebash/.codeium/windsurf/brain/2827963e-55dc-4005-ba04-d81dc8093ecb] git rev-parse --show-toplevel • FAILED
+2025-09-05 12:17:17.944 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-05 12:25:09.832 [info] [2025-09-05 10:25:09.832] [         39ms] [/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib] git rev-parse --show-toplevel • FAILED
+2025-09-05 12:25:09.832 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

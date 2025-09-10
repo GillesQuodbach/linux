@@ -6,17 +6,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/codebash/dev/test_go"
-            },
-            {
                 "folderUri": "file:///home/codebash/CascadeProjects/PlantApp"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1756302533035"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -24,9 +17,7 @@
             "file:///home/codebash/CascadeProjects/PlantApp": "__default__profile__",
             "file:///home/codebash/dev/test_go": "__default__profile__"
         },
-        "emptyWindows": {
-            "1756302533035": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
