@@ -20,15 +20,36 @@ if status is-interactive
     end
     funcsave pixel9-cold
     
+    activer vpn
     function vpnup
 	sudo wg-quick up wg0
     end
     funcsave vpnup
-
+    
+    # eteindre vpn
     function vpndown
 	sudo wg-quick down wg0
     end
     funcsave vpndown
+    #Activer venv
+    function venv
+	if test -d .venv
+	    source .venv/bin/activate.fish
+	else
+	    echo "Aucun venv trouvé dans ce dossier"
+	end
+    end
+    funcsave venv
+    # desactiver venv
+    function vdeactivate
+	if function -q deactivate
+	    deactivate
+	else
+	    echo "Aucun venv actif"
+	end
+    end
+    function vdeactivate
+
 
 end
 set -x ANDROID_HOME $HOME/Android/Sdk  # Chemin pour Linux
